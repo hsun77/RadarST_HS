@@ -1,0 +1,9 @@
+profile: external_first
+retention: 0.97
+expression_weight: 0.80
+expected_gain_weight: 0.20
+cross_risk_penalty: 0.025
+selector_attempts: 96
+harm_weight: 0.50
+extra_utility_budget: 0.01
+python_hash_seed: "0"

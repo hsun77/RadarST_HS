@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this software and add the associated article citation when available."
+type: software
+title: "RadarST: Post-clustering refinement for spatial transcriptomics"
+version: 0.1.0
+authors:
+  - name: RadarST contributors
+license: MIT

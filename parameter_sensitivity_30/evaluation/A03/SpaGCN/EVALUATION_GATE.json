@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "A03",
+  "workflow": "SpaGCN",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "a646e2038e488010bfb7528ee8a80bb8ee9d974965bd5183ac45f762e3fd2092",
+  "prediction_sha256": "6e8dbcd5926c8c2979c3c23936826da43edee8216eeda6444cb47a2a237ff9ac",
+  "map_results_sha256": "618bb19ccd027b0e4d961e2157605942423c4bb9a6f5e15249aae471b3a5a930",
+  "component_results_sha256": "e6498ca0b7c54ab21b998c0b5b339c2af11831ae17cbccdf1fa42f183c0d5c1e",
+  "seconds": 0.17013835906982422
+}

@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "A06",
+  "workflow": "CCST",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "cffb74701deba8f92d93c39ccc2cd08015f0f6428762c8ebe7313e596d89b557",
+  "prediction_sha256": "3c3aa28c236f2fa675043781e633ed1f0df8700f012a2d8c2325374e1b1ff879",
+  "map_results_sha256": "d41fa5425380292252fd7e36afbb06e4b3f15ad882765430b02ac3a900df085a",
+  "component_results_sha256": "1164b7c7ba1dde31023d69616c4ac3f652a67a3e5aa396e1cde1e9203764db01",
+  "seconds": 0.24491596221923828
+}

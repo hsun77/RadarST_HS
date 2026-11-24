@@ -1,0 +1,17 @@
+{
+  "utc": "2026-11-11T08:27:20.191305+00:00",
+  "reason": "Balance slow sections across all eight workers; preserve completed gated maps",
+  "completed_maps_reused": 24,
+  "core_functions_AST_unchanged": {
+    "models": true,
+    "load_inputs": true,
+    "initial_sets": true,
+    "refine": true,
+    "predict_one": true,
+    "configure_modules": true
+  },
+  "previous_sha256": "4ceadfee6463604e4f014efd593dba15ae60c68bef1a6a5b20599cebe59bb359",
+  "current_sha256": "12210e204f64e97fcd9199d5c491359a246d344eb858057c6a356ef5e9d4ddbf",
+  "algorithm_parameters_and_models_unchanged": true,
+  "workers": 8
+}

@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "dataset": "A01",
+  "workflow": "stLearn",
+  "configurations": 30,
+  "no_reference_read": true,
+  "formal_initialization_exact_parity": true,
+  "formal_E2_labels_exact_parity": true,
+  "utility_model_sha256": "15c4a7eea7c2c7933a243733f3af09bd236cc36fe2b7bc9ff093dfb2d2c4b699",
+  "event_model_sha256": "965d5b6e41071c6215d81e9981f83ef378f1167cd20981189921f614cbfe59cf",
+  "training_datasets": [
+    "10X_BC",
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A06",
+    "A07",
+    "A08",
+    "A09",
+    "ST_PDAC_A",
+    "ST_PDAC_B"
+  ],
+  "predictions_sha256": "7f96bc49b034bbb331d8ca5be1418d8a57c929888e24835b7909b23292055866",
+  "seconds": 127.99411106109619,
+  "initialization_seconds": 5.94361686706543,
+  "new_feature_states": 30,
+  "cached_feature_states": 0,
+  "input_sha256": {
+    "H:\\RadarST_2_ObjectValue_20261104\\inputs\\A01\\stLearn\\MAP.npz": "8cb82547742364ed2e9a85e311ae01ea0734d90c5e1ada82d9d7bbc39b8f67d6",
+    "H:\\RadarST_2_ObjectValue_20261104\\inputs\\A01\\stLearn\\CANDIDATES.parquet": "069c9e6d6b82078811913870efb82c617690277c9b9021c3e1cc822dff332791",
+    "H:\\RadarST_2_ObjectValue_20261104\\inputs\\A01\\stLearn\\BASE_FEATURES.parquet": "9c87aa67e8ae12c3d19bd4b64bc49112407b6fc9ff9c08357c082f3e8614e0dd",
+    "H:\\RadarST_I3_REBUILD_20261021\\runs\\a0_frontend\\A01\\stLearn\\features.parquet": "1ae14440556d1f1029835b8a9a483464f7e994fcaee00302229b4997e9df5a67",
+    "H:\\RadarST_I3_REBUILD_20261021\\runs\\a0_frontend\\A01\\stLearn\\ranking.parquet": "c2198ec63b060442e8fa5577bb471e04356b97bd2f1e953658044e8c099b6aa5",
+    "H:\\RadarST_I3_REBUILD_20261021\\runs\\a0_frontend\\A01\\stLearn\\slots.csv": "c317841eafbe8e2a4fb860961f33014c57648f4dfc967c5bb6ce784d68e24b8a",
+    "H:\\RadarST_2_ObjectValue_20261104\\features\\A01\\GENE_OBJECT_EVIDENCE.parquet": "a704c595650f0aa69c76d0c5be6a22ca5b0fc5ca39ee7c0ec1012dd5e171f079"
+  }
+}

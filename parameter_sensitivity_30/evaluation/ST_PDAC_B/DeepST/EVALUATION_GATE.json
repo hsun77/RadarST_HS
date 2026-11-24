@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "ST_PDAC_B",
+  "workflow": "DeepST",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "03fcc49dd694f4024795652aeb03a72c3923efc7745ae34c44ba83a779c54678",
+  "prediction_sha256": "090f6918b7436290852d5c7ca83e88df35fe26524e408253920b05816b62a89e",
+  "map_results_sha256": "4cf779bddec886eea1997d85e14ec7a505e4581ba280dfcdd371aff2fa3c6e74",
+  "component_results_sha256": "88b951433b679dee2e5275932827e545f2306d8fb242e0d8e6f6cced5cfa1351",
+  "seconds": 0.11290955543518066
+}

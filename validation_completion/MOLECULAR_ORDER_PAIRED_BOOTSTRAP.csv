@@ -1,0 +1,9 @@
+cohort,metric,delta_RadarST_minus_molecular,ci_lower,ci_upper,sections,positive_sections,negative_sections,tie_sections,interpretation
+development,Mean_Best_IoU,0.0024024759580915725,-0.007244130266246568,0.012426328629143548,12,7,5,0,"paired descriptive section bootstrap; exposed cohorts, no model selection"
+development,exact,-0.00106118338330453,-0.010681656725445628,0.010147604798389054,12,4,6,2,"paired descriptive section bootstrap; exposed cohorts, no model selection"
+development,size3_5_Mean,-0.010128469282854968,-0.031176185265330378,0.01334558454313502,12,3,9,0,"paired descriptive section bootstrap; exposed cohorts, no model selection"
+development,loss_fraction,-0.013724258448039357,-0.022546907031236105,-0.006118284201767865,12,1,11,0,"paired descriptive section bootstrap; exposed cohorts, no model selection"
+external,Mean_Best_IoU,0.005518245605346008,-0.023868379785599737,0.03764373449507902,11,6,4,1,"paired descriptive section bootstrap; exposed cohorts, no model selection"
+external,exact,-0.00628844839371154,-0.0348598769651401,0.016233766233766232,11,3,3,5,"paired descriptive section bootstrap; exposed cohorts, no model selection"
+external,size3_5_Mean,0.004051008560607926,-0.007585249217668973,0.01683994846447438,6,2,3,1,"paired descriptive section bootstrap; exposed cohorts, no model selection"
+external,loss_fraction,-0.014023695602642968,-0.04973798131692868,0.019480519480519477,11,3,5,3,"paired descriptive section bootstrap; exposed cohorts, no model selection"

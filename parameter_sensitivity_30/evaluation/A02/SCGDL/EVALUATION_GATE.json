@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "A02",
+  "workflow": "SCGDL",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "b3ee52ef0f2ba99fcb05faeee3eb058e1d7c9bf20de948fd201fbb09aae1cadd",
+  "prediction_sha256": "e2e16e0b262d65c3c36f1811baac9fcc22195fc76a2eebf6dca2cd6a53d3acf3",
+  "map_results_sha256": "3cb313f7c65bd2a824e7fce5050a3cec93dedc9d46cf42eacc2f5e73b143082f",
+  "component_results_sha256": "6485caeeb7fc842acbb20aab46caf95df8260e19313ffa9444e9383d300ded88",
+  "seconds": 0.26650452613830566
+}

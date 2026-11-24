@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "ST_PDAC_B",
+  "workflow": "SpaceFlow",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "03fcc49dd694f4024795652aeb03a72c3923efc7745ae34c44ba83a779c54678",
+  "prediction_sha256": "c3bfb0653667f85d5132fcc86c8238a7c61e89b316ec4ce3e219dd943e3f63fb",
+  "map_results_sha256": "84d95de3f2daee14a2ceaa9f899be1f310fcd0c8df4ec481ef2b5d8233337bdd",
+  "component_results_sha256": "b077c08a061c0124990772f8ab77c9b841b62e8d2e466b63f8b17fde6ff29e6d",
+  "seconds": 0.1132962703704834
+}

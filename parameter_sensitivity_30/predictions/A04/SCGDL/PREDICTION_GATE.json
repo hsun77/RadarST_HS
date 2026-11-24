@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "dataset": "A04",
+  "workflow": "SCGDL",
+  "configurations": 30,
+  "no_reference_read": true,
+  "formal_initialization_exact_parity": true,
+  "formal_E2_labels_exact_parity": true,
+  "utility_model_sha256": "826dcff3e1ddc32be77d79afed5bd18e6310996e2f3624f4c7611be0ae6ad36e",
+  "event_model_sha256": "573f55966691ce79f13661cc0f9894304a89cb08b5bbc1e21585f4b0b774114b",
+  "training_datasets": [
+    "10X_BC",
+    "A01",
+    "A02",
+    "A03",
+    "A05",
+    "A06",
+    "A07",
+    "A08",
+    "A09",
+    "ST_PDAC_A",
+    "ST_PDAC_B"
+  ],
+  "predictions_sha256": "ff2977425509a74e92eb54b11b2f7f13fd27702f9a3a50a47f1be3f784ccb2e1",
+  "seconds": 203.13321566581726,
+  "initialization_seconds": 8.394286632537842,
+  "new_feature_states": 30,
+  "cached_feature_states": 0,
+  "input_sha256": {
+    "H:\\RadarST_2_ObjectValue_20261104\\inputs\\A04\\SCGDL\\MAP.npz": "2b52d3575a2283837a8a6dc038f0622439e987624535640a9e3bb1df4b1cad1b",
+    "H:\\RadarST_2_ObjectValue_20261104\\inputs\\A04\\SCGDL\\CANDIDATES.parquet": "18d84c7c81d5abfab88489d9e20c2ccb26e96af35c40af97a03b0fb439253947",
+    "H:\\RadarST_2_ObjectValue_20261104\\inputs\\A04\\SCGDL\\BASE_FEATURES.parquet": "739f0e91c45d277e5cd628b1d049525485d2005cdecf817f05d96cb51b1a04e4",
+    "H:\\RadarST_I3_REBUILD_20261021\\runs\\a0_frontend\\A04\\SCGDL\\features.parquet": "85dbb4ecd28f26734b367fcf8ea01598306dc32971c8da1c12d36d2a947e86b7",
+    "H:\\RadarST_I3_REBUILD_20261021\\runs\\a0_frontend\\A04\\SCGDL\\ranking.parquet": "086889c7c720bd434a0d327ba6b915c723458c11ab08ffef18b62d93885a5673",
+    "H:\\RadarST_I3_REBUILD_20261021\\runs\\a0_frontend\\A04\\SCGDL\\slots.csv": "49c51df60cf79a792d9986e9e95eb93a00056761e2f806e8bbc810c3024963fe",
+    "H:\\RadarST_2_ObjectValue_20261104\\features\\A04\\GENE_OBJECT_EVIDENCE.parquet": "8997862240e406626cf64177c4bedf582e983f5415dcc674bd4e0f1182498d48"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "A03",
+  "workflow": "GraphST",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "a646e2038e488010bfb7528ee8a80bb8ee9d974965bd5183ac45f762e3fd2092",
+  "prediction_sha256": "4447770c3a95c84c658d2f50ac3d4a8758eac85e10bc0d37d9975e14e03b2435",
+  "map_results_sha256": "4bce47308bd8eebe07d8dc3f4c46db811448bb649c84779b0d9f542526f1969e",
+  "component_results_sha256": "8c50d0271c4cb9a97204f48cf8d7206edeced711ab70fd22f83aaa78be1a2a46",
+  "seconds": 0.2027606964111328
+}

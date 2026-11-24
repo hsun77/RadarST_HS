@@ -1,69 +1,23 @@
 # RadarST
 
-RadarST refines spatial transcriptomics clustering maps to improve the representation of compact tissue components.
-It combines guarded local molecular contrast, connected multiscale proposals and topology-aware integration.
-It operates downstream of an existing clustering workflow and does not rerun upstream clustering.
+RadarST refines one upstream spatial map through guarded molecular proposals, topology-constrained initialization and conditional full-map actions. The active policy identifier is E2_EVENT_CREDIT. Two201-feature ExtraTrees heads and six deterministic rounds are used. No reference, true IoU, actual harm or oracle quantity enters inference.
 
-## Installation
+## Executable real-data example
 
-Use Python 3.10. In an activated virtual environment:
-
-```bash
-git clone https://github.com/hsun77/RadarST_HS.git
-cd RadarST_HS
-python -m pip install -e ".[test]"
-radarst --help
+```powershell
+python -B run_radarst.py --input-dir example_data/map --molecular-dir example_data/molecular --output-root H:/RadarST_Review_Example --dataset EXT04_GSM6592049_M2 --workflow GraphST
 ```
 
-Conda users can use `conda env create -f environment.yml`, then `conda activate radarst`.
-Dependencies are specified in [pyproject.toml](pyproject.toml); no GPU is required.
+Use a new output directory. The reported map is predictions/DATASET/WORKFLOW/E2_EVENT_CREDIT/FINAL_LABELS.csv. An auxiliary quotient map emitted by the unchanged kernel is not the reported or evaluated map. REVIEW_CODE_SMOKE_TEST.json records exact reproduction of frozen labels, candidate sets and decisions.
 
-## Input Format
+The tested CLI starts at the **prepared candidate-state interface**, not an arbitrary raw-input one-click API. MAP.npz contains ordered spots, coordinates, one upstream partition, edges and expression PCs. Candidate membership,147 base features, molecular object evidence and the Development-fitted initialization prediction complete the input. DATA_SCHEMA.md documents alignment.
 
-- Expression: a 10x Genomics filtered feature-barcode HDF5 count matrix.
-- Coordinates: CSV with unique `spot_id,x,y` columns.
-- Upstream map: CSV with unique `spot_id,pred_label` columns covering the input spots.
-- Inference models: compatible, trusted expected-gain and selector model bundles supplied by the user; weights are not bundled.
+Actual preprocessing/initialization sources and weights are included in src/initialization, src/frontend_helpers and models/initialization. Registered training scripts and their SHA-bound read-only data/target/state dependencies are in training/ and configs/. Those datasets and24 Development fold weights are externally referenced; both FULL conditional weights are embedded. The registered training scripts require their declared research workspace and are not advertised as portable arbitrary-data commands.
 
-See [model requirements](docs/models.md) and [input and configuration details](docs/implementation.md).
+results/ contains9,996 component-workflow records and322 map summaries with all losses, exact sizes, footprint and macro metrics. The primary endpoint is section equal with14 dependent workflows. Use the actual versions in configs/environment_and_sources.json. The molecular controls in supplementary_controls/s23 describe a fixed attribution panel; they are not a final-selection randomization or independent disease validation.
 
-## Quick Start / Inference
 
-Set `PYTHONHASHSEED=0` before starting the CLI (`$env:PYTHONHASHSEED='0'` in PowerShell).
-Inference requires one upstream map and compatible models, but no reference annotations.
+Fixed final-map randomization, molecular controls, iteration and current-object attribution are now in validation_completion/. S23 retains the earlier fixed panel; S26–S29 describe current population/case checks. See validation_completion/README.md for complete dependencies and remaining boundaries.
 
-```bash
-PYTHONHASHSEED=0 radarst infer \
-  --expression inputs/filtered_feature_bc_matrix.h5 \
-  --coordinates inputs/coordinates.csv --upstream-labels inputs/upstream_labels.csv \
-  --ranker-model models/expected_gain.joblib --selector-model models/selector_heads.joblib \
-  --dataset section_01 --workflow GraphST \
-  --config configs/inference.yaml --output new_results
-```
 
-Use a new output directory; select the input profile in [configs/inference.yaml](configs/inference.yaml) and follow the [model requirements](docs/models.md).
-
-## Training
-
-Training requires Development expression, coordinates, reference annotations and 14 distinct upstream workflow maps per section.
-LOSO excludes the held-out section before teacher generation, target construction and model fitting; External data are not training inputs.
-
-```bash
-PYTHONHASHSEED=0 radarst train-inputs --manifest training_manifest.yaml \
-  --output trained_models --mode loso_and_full --audit-access
-```
-
-See [training](docs/training.md) for manifest schemas, teacher generation and model outputs.
-
-## Documentation
-
-[Implementation and configuration](docs/implementation.md) | [Models](docs/models.md) | [Training](docs/training.md) | [Evaluation](docs/evaluation.md).
-Synthetic examples are provided in [examples/](examples/); run unit tests with `python -m pytest`.
-
-## Citation
-
-Software citation metadata are provided in [CITATION.cff](CITATION.cff).
-
-## License
-
-[MIT License](LICENSE). Dependencies retain their own licenses; see [third-party notices](THIRD_PARTY_NOTICES.md).
+The manuscript supplement contains 31 worksheets (Index and S1–S30). S30 documents exact shape correspondence for the prespecified six-case molecular-example registry; it does not count the number of figure tiles. All numerical algorithm code, model weights, inference feature order and prepared examples remain unchanged.

@@ -1,0 +1,196 @@
+{
+  "task": "Original Figure5b 30-configuration sensitivity",
+  "configs": [
+    {
+      "id": "w70_r095",
+      "expression_weight": 0.7,
+      "expected_gain_weight": 0.3,
+      "retention": 0.95
+    },
+    {
+      "id": "w70_r096",
+      "expression_weight": 0.7,
+      "expected_gain_weight": 0.3,
+      "retention": 0.96
+    },
+    {
+      "id": "w70_r097",
+      "expression_weight": 0.7,
+      "expected_gain_weight": 0.3,
+      "retention": 0.97
+    },
+    {
+      "id": "w70_r098",
+      "expression_weight": 0.7,
+      "expected_gain_weight": 0.3,
+      "retention": 0.98
+    },
+    {
+      "id": "w70_r099",
+      "expression_weight": 0.7,
+      "expected_gain_weight": 0.3,
+      "retention": 0.99
+    },
+    {
+      "id": "w70_r100",
+      "expression_weight": 0.7,
+      "expected_gain_weight": 0.3,
+      "retention": 1.0
+    },
+    {
+      "id": "w75_r095",
+      "expression_weight": 0.75,
+      "expected_gain_weight": 0.25,
+      "retention": 0.95
+    },
+    {
+      "id": "w75_r096",
+      "expression_weight": 0.75,
+      "expected_gain_weight": 0.25,
+      "retention": 0.96
+    },
+    {
+      "id": "w75_r097",
+      "expression_weight": 0.75,
+      "expected_gain_weight": 0.25,
+      "retention": 0.97
+    },
+    {
+      "id": "w75_r098",
+      "expression_weight": 0.75,
+      "expected_gain_weight": 0.25,
+      "retention": 0.98
+    },
+    {
+      "id": "w75_r099",
+      "expression_weight": 0.75,
+      "expected_gain_weight": 0.25,
+      "retention": 0.99
+    },
+    {
+      "id": "w75_r100",
+      "expression_weight": 0.75,
+      "expected_gain_weight": 0.25,
+      "retention": 1.0
+    },
+    {
+      "id": "w80_r095",
+      "expression_weight": 0.8,
+      "expected_gain_weight": 0.2,
+      "retention": 0.95
+    },
+    {
+      "id": "w80_r096",
+      "expression_weight": 0.8,
+      "expected_gain_weight": 0.2,
+      "retention": 0.96
+    },
+    {
+      "id": "w80_r097",
+      "expression_weight": 0.8,
+      "expected_gain_weight": 0.2,
+      "retention": 0.97
+    },
+    {
+      "id": "w80_r098",
+      "expression_weight": 0.8,
+      "expected_gain_weight": 0.2,
+      "retention": 0.98
+    },
+    {
+      "id": "w80_r099",
+      "expression_weight": 0.8,
+      "expected_gain_weight": 0.2,
+      "retention": 0.99
+    },
+    {
+      "id": "w80_r100",
+      "expression_weight": 0.8,
+      "expected_gain_weight": 0.2,
+      "retention": 1.0
+    },
+    {
+      "id": "w85_r095",
+      "expression_weight": 0.85,
+      "expected_gain_weight": 0.15,
+      "retention": 0.95
+    },
+    {
+      "id": "w85_r096",
+      "expression_weight": 0.85,
+      "expected_gain_weight": 0.15,
+      "retention": 0.96
+    },
+    {
+      "id": "w85_r097",
+      "expression_weight": 0.85,
+      "expected_gain_weight": 0.15,
+      "retention": 0.97
+    },
+    {
+      "id": "w85_r098",
+      "expression_weight": 0.85,
+      "expected_gain_weight": 0.15,
+      "retention": 0.98
+    },
+    {
+      "id": "w85_r099",
+      "expression_weight": 0.85,
+      "expected_gain_weight": 0.15,
+      "retention": 0.99
+    },
+    {
+      "id": "w85_r100",
+      "expression_weight": 0.85,
+      "expected_gain_weight": 0.15,
+      "retention": 1.0
+    },
+    {
+      "id": "w90_r095",
+      "expression_weight": 0.9,
+      "expected_gain_weight": 0.1,
+      "retention": 0.95
+    },
+    {
+      "id": "w90_r096",
+      "expression_weight": 0.9,
+      "expected_gain_weight": 0.1,
+      "retention": 0.96
+    },
+    {
+      "id": "w90_r097",
+      "expression_weight": 0.9,
+      "expected_gain_weight": 0.1,
+      "retention": 0.97
+    },
+    {
+      "id": "w90_r098",
+      "expression_weight": 0.9,
+      "expected_gain_weight": 0.1,
+      "retention": 0.98
+    },
+    {
+      "id": "w90_r099",
+      "expression_weight": 0.9,
+      "expected_gain_weight": 0.1,
+      "retention": 0.99
+    },
+    {
+      "id": "w90_r100",
+      "expression_weight": 0.9,
+      "expected_gain_weight": 0.1,
+      "retention": 1.0
+    }
+  ],
+  "development_maps": 168,
+  "external_maps": 0,
+  "maximum_refinement_rounds": 6,
+  "cross_component_penalty": 0.025,
+  "search_attempts": 96,
+  "models": "Existing frozen section-excluded utility/event heads and initialization outputs; no fit",
+  "selection_of_best_config": false,
+  "formal_configuration": "w80_r097",
+  "primary_aggregation": "Within component, then workflow, then equal sections; all168 pairs",
+  "prediction_lock_before_reference_evaluation": true,
+  "no_zero_edit_map_removed_from_statistics": true
+}

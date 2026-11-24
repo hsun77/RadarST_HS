@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "ST_PDAC_B",
+  "workflow": "Seurat",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "03fcc49dd694f4024795652aeb03a72c3923efc7745ae34c44ba83a779c54678",
+  "prediction_sha256": "7500c1b0d69d21c57a8d0c9e0e07076cb1645a3e588158dd3a21de972ebe9783",
+  "map_results_sha256": "5fd621570e2291c88f121f2a75b54a0997a553232f499435495110e7980243df",
+  "component_results_sha256": "b19ed55649bb5c7b929873185379eadcb54ed12f29d49e17b03f35cb1d844058",
+  "seconds": 0.11149835586547852
+}

@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "A04",
+  "workflow": "Seurat",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "8d1063044383ddaf0d111cb74b1156787eb6c381643ad0e608d11d89db5fb6d3",
+  "prediction_sha256": "b30d229876988eb1d5b69f8c2273485aff97c77139dacee3af78bb17ae4aec6c",
+  "map_results_sha256": "e344723eb845b495f1491bca63e74e622b69ea28e02d683ccca842cd63979226",
+  "component_results_sha256": "bf353a74702d4979ad196cded7467775a2f9982bd128008353372b8a27e8695a",
+  "seconds": 0.2178647518157959
+}

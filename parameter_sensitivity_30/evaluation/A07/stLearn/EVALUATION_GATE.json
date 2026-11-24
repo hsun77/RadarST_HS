@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "A07",
+  "workflow": "stLearn",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "861c2d57687f4ba7165610e01556bd6e62ea6008fdea91ee5fe4ddba512be7e9",
+  "prediction_sha256": "9614ac1e4cb931e1b07b931f7f7c4c2ae48bfed2f1c0b97ba1ab6fcc5dcc7acf",
+  "map_results_sha256": "8277284da286e107ed3179b90d872bec0754fdae17fbc07fb802f175676827ec",
+  "component_results_sha256": "96d9d07b82ba2f3b300802115e9ca9d3346f1936d205e5a74e86f1f50d44cc39",
+  "seconds": 0.29227209091186523
+}

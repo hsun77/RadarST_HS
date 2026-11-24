@@ -1,0 +1,28 @@
+[
+  {
+    "function": "refine",
+    "progress": [
+      {
+        "name": "hits",
+        "repr": "0"
+      },
+      {
+        "name": "fresh",
+        "repr": "3"
+      },
+      {
+        "name": "rnd",
+        "repr": "3"
+      }
+    ]
+  },
+  {
+    "function": "predict_one",
+    "progress": [
+      {
+        "name": "q",
+        "repr": "{\"id\": \"w90_r099\", \"expression_weight\": 0.9, \"expected_gain_weight\": 0.1, \"retention\": 0.99}"
+      }
+    ]
+  }
+]

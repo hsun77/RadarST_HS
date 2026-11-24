@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "ST_PDAC_B",
+  "workflow": "SCGDL",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "03fcc49dd694f4024795652aeb03a72c3923efc7745ae34c44ba83a779c54678",
+  "prediction_sha256": "4defc734f750355952f4ac779941af95465929291ef2c695b17c8644643325a3",
+  "map_results_sha256": "3abfb1643551c3f9ffb617e6dc41e0072fa70afc2e733eb984ebcb709c02d1f2",
+  "component_results_sha256": "77c54a50fc3e3a9a79cecadc98b92c75e2a31f5b6c979bb56c1019d9c8f985c6",
+  "seconds": 0.10515260696411133
+}

@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "A08",
+  "workflow": "SpaceFlow",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "974b71c506b883df56347cc0a12844fef95e6327002b237cde8a72e5eaf08674",
+  "prediction_sha256": "47d27707ab8707bee36fc3df3791699b79b14dba7754c10a5a2142e74dfd4cfc",
+  "map_results_sha256": "a9acdefbd081240cbcae435ea706c7f7a671a3b27cec196a4b6cc303da15953e",
+  "component_results_sha256": "7d3526a96381d609716f64f6ccada9b7b9dbc846e630a4e028dae610ea77a8ef",
+  "seconds": 0.26787614822387695
+}

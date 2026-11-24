@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "ST_PDAC_B",
+  "workflow": "conST",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "03fcc49dd694f4024795652aeb03a72c3923efc7745ae34c44ba83a779c54678",
+  "prediction_sha256": "6aa721982fa2b62df757039c9dd64267a3bf1e5380e2e713308e34c8c4800afc",
+  "map_results_sha256": "09ebd0d38c9341be2915e4178f650f7691f0408a0c8abee23458f7284a147e4f",
+  "component_results_sha256": "dd30744dc8ad7315b58c7c1d587d26aa27e6d5847feb9506249a3589d1d667c9",
+  "seconds": 0.0997157096862793
+}

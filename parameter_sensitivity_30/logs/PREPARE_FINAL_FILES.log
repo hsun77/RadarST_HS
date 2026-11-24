@@ -1,0 +1,12 @@
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+EXPORTED Figure5
+EXPORTED Figure5_all322_maps
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+Traceback (most recent call last):
+  File "H:\RadarST_FigureRevision2_20261111\verify_final_artifacts.py", line 49, in <module>
+    if __name__=='__main__':main()
+  File "H:\RadarST_FigureRevision2_20261111\verify_final_artifacts.py", line 16, in main
+    old=b.ident(before,f'axes_{k}');new=b.ident(after,f'axes_{k}')
+  File "H:\RadarST_FigureCorrection_20261111/source_code\correct_figures.py", line 33, in ident
+    a=r.xpath('//*[@id=$id]',id=id); assert len(a)==1,(id,len(a));return a[0]
+AssertionError: ('axes_1', 0)

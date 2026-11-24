@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "file": "H:/RadarST_FigureRevision2_20261111/staged/Supplementary_Tables.xlsx",
+  "rows": 30,
+  "columns": 32,
+  "all_values_equal_full_precision_summary": true,
+  "rendered": [
+    {
+      "range": "A1:H12",
+      "path": "H:/RadarST_FigureRevision2_20261111/qa/S31_merged_A_H.png"
+    },
+    {
+      "range": "I1:P12",
+      "path": "H:/RadarST_FigureRevision2_20261111/qa/S31_merged_I_P.png"
+    },
+    {
+      "range": "Q1:X12",
+      "path": "H:/RadarST_FigureRevision2_20261111/qa/S31_merged_Q_X.png"
+    },
+    {
+      "range": "Y1:AF12",
+      "path": "H:/RadarST_FigureRevision2_20261111/qa/S31_merged_Y_AF.png"
+    }
+  ]
+}

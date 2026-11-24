@@ -1,0 +1,153 @@
+[
+  {
+    "pid": 30904,
+    "thread_id": 11356,
+    "thread_name": "MainThread",
+    "os_thread_id": 11356,
+    "active": true,
+    "owns_gil": true,
+    "frames": [
+      {
+        "name": "partition",
+        "filename": "H:\\RadarST_2_ObjectValue_20261104\\code\\exact_engine.py",
+        "module": null,
+        "short_filename": "H:\\RadarST_2_ObjectValue_20261104\\code\\exact_engine.py",
+        "line": 21,
+        "locals": null,
+        "is_entry": true,
+        "is_shim_entry": false
+      },
+      {
+        "name": "fragments",
+        "filename": "H:\\RadarST_2_ObjectValue_20261104\\code\\exact_engine.py",
+        "module": null,
+        "short_filename": "H:\\RadarST_2_ObjectValue_20261104\\code\\exact_engine.py",
+        "line": 45,
+        "locals": null,
+        "is_entry": true,
+        "is_shim_entry": false
+      },
+      {
+        "name": "action",
+        "filename": "H:\\RadarST_2_ObjectValue_20261104\\code\\fast_geometry.py",
+        "module": null,
+        "short_filename": "H:\\RadarST_2_ObjectValue_20261104\\code\\fast_geometry.py",
+        "line": 41,
+        "locals": null,
+        "is_entry": true,
+        "is_shim_entry": false
+      },
+      {
+        "name": "dynamic_features",
+        "filename": "H:\\RadarST_2_ObjectValue_20261104\\code\\fast_geometry.py",
+        "module": null,
+        "short_filename": "H:\\RadarST_2_ObjectValue_20261104\\code\\fast_geometry.py",
+        "line": 76,
+        "locals": null,
+        "is_entry": true,
+        "is_shim_entry": false
+      },
+      {
+        "name": "checked",
+        "filename": "H:\\RadarST_2_ObjectValue_20261104\\code\\fast_infer_round.py",
+        "module": null,
+        "short_filename": "H:\\RadarST_2_ObjectValue_20261104\\code\\fast_infer_round.py",
+        "line": 7,
+        "locals": null,
+        "is_entry": true,
+        "is_shim_entry": false
+      },
+      {
+        "name": "refine",
+        "filename": "H:\\RadarST_FigureRevision2_20261111\\sensitivity.py",
+        "module": null,
+        "short_filename": "H:\\RadarST_FigureRevision2_20261111\\sensitivity.py",
+        "line": 84,
+        "locals": null,
+        "is_entry": true,
+        "is_shim_entry": false
+      },
+      {
+        "name": "predict_one",
+        "filename": "H:\\RadarST_FigureRevision2_20261111\\sensitivity.py",
+        "module": null,
+        "short_filename": "H:\\RadarST_FigureRevision2_20261111\\sensitivity.py",
+        "line": 118,
+        "locals": null,
+        "is_entry": true,
+        "is_shim_entry": false
+      },
+      {
+        "name": "worker_map",
+        "filename": "H:\\RadarST_FigureRevision2_20261111\\sensitivity.py",
+        "module": null,
+        "short_filename": "H:\\RadarST_FigureRevision2_20261111\\sensitivity.py",
+        "line": 154,
+        "locals": null,
+        "is_entry": true,
+        "is_shim_entry": false
+      },
+      {
+        "name": "_process_worker",
+        "filename": "C:\\Environment_Langguage_Software\\Anaconda\\envs\\st_benchmark\\lib\\concurrent\\futures\\process.py",
+        "module": null,
+        "short_filename": "C:\\Environment_Langguage_Software\\Anaconda\\envs\\st_benchmark\\lib\\concurrent\\futures\\process.py",
+        "line": 246,
+        "locals": null,
+        "is_entry": true,
+        "is_shim_entry": false
+      },
+      {
+        "name": "run",
+        "filename": "C:\\Environment_Langguage_Software\\Anaconda\\envs\\st_benchmark\\lib\\multiprocessing\\process.py",
+        "module": null,
+        "short_filename": "C:\\Environment_Langguage_Software\\Anaconda\\envs\\st_benchmark\\lib\\multiprocessing\\process.py",
+        "line": 108,
+        "locals": null,
+        "is_entry": true,
+        "is_shim_entry": false
+      },
+      {
+        "name": "_bootstrap",
+        "filename": "C:\\Environment_Langguage_Software\\Anaconda\\envs\\st_benchmark\\lib\\multiprocessing\\process.py",
+        "module": null,
+        "short_filename": "C:\\Environment_Langguage_Software\\Anaconda\\envs\\st_benchmark\\lib\\multiprocessing\\process.py",
+        "line": 314,
+        "locals": null,
+        "is_entry": true,
+        "is_shim_entry": false
+      },
+      {
+        "name": "_main",
+        "filename": "C:\\Environment_Langguage_Software\\Anaconda\\envs\\st_benchmark\\lib\\multiprocessing\\spawn.py",
+        "module": null,
+        "short_filename": "C:\\Environment_Langguage_Software\\Anaconda\\envs\\st_benchmark\\lib\\multiprocessing\\spawn.py",
+        "line": 129,
+        "locals": null,
+        "is_entry": true,
+        "is_shim_entry": false
+      },
+      {
+        "name": "spawn_main",
+        "filename": "C:\\Environment_Langguage_Software\\Anaconda\\envs\\st_benchmark\\lib\\multiprocessing\\spawn.py",
+        "module": null,
+        "short_filename": "C:\\Environment_Langguage_Software\\Anaconda\\envs\\st_benchmark\\lib\\multiprocessing\\spawn.py",
+        "line": 116,
+        "locals": null,
+        "is_entry": true,
+        "is_shim_entry": false
+      },
+      {
+        "name": "<module>",
+        "filename": "<string>",
+        "module": null,
+        "short_filename": "<string>",
+        "line": 1,
+        "locals": null,
+        "is_entry": true,
+        "is_shim_entry": true
+      }
+    ],
+    "process_info": null
+  }
+]

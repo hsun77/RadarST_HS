@@ -1,0 +1,16 @@
+{
+  "status": "LOCKED_BEFORE_ROUND2_FITTING_AND_ENDPOINTS",
+  "motivation": "Round1 B1 DOMAIN Q2 improves Mean, all3 size-band means, exact,3-5exact and ARI, but increases compact deterioration events versus upstream. Original gain/harm magnitude is not a count-change target.",
+  "formal_target": "For each legitimate action in its frozen current map S, band b event_delta_b = sum_Rinb[1(IoU(S_action,R)<IoU(upstream,R)-1e-12)-1(IoU(S,R)<IoU(upstream,R)-1e-12)]. Full-map action; never isolated-mask proxy.",
+  "features": "Exactly the201 deployment-observable B1 columns. No candidate ID, dataset ID, workflow ID, references, IoU, labels, prior offline results or teacher scores as features.",
+  "routes": "Same legal whole-section outerT and double-excluded inner(T,J) states as round1; original gain/harm learner12 B1 weights remain frozen. New event learner excludes outerT annotations and all other-fold target routes.",
+  "training_population": "Exact original upstream-context0 + actual inner-OOF GraphST/Seurat on-policy actions, same finite-original-target row mask and physical dedup / sample-regime-workflow weights",
+  "event_model": {"class":"ExtraTreesRegressor","n_estimators":256,"min_samples_leaf":8,"max_features":0.7,"seed":20261104,"targets":"three band event-count deltas, standardized by training-only weighted SD floor0.01"},
+  "E1_LOCAL_EVENT": "Original B1 DOMAIN eligibility plus sum predicted event_delta<=0; original score/ID deterministic order; max6 rounds and same closed-neighborhood legality. No quotient until final map.",
+  "E2_EVENT_CREDIT": "Same eligibility; within each round process predicted nonpositive-event actions first, then positive-event actions by original utility/ID. Start expected credit0; accept only if predicted event_delta<=credit; credit-=predicted_event_delta; carry across rounds. Predicted credit is not actual harm guarantee.",
+  "fixed_postprocess": "Report both base labels and unchanged Q2_PAIR_OPT final-domain map. Q never changes component membership or micro endpoints.",
+  "scope": "All12 Development sections x14 workflows. Engineering regression on ST_PDAC_B/GraphST only; no performance-selected pilot or sample-specific rule.",
+  "evaluation": "All672 new base/Q maps hash locked before round2 endpoint read. Same frozen evaluator and same nine-field round1 upgrade criterion, plus all-size, precision, fragmentation and burden disclosure. Do not weaken old criteria.",
+  "negative_results": "Round1 and all failed old Gates preserved. AllDev exposed; no independent validation claim. No External read for design/training/selection.",
+  "search_budget": "One event model family and two mathematical-zero policies; no lambda, threshold, seed or model-family scan. Actual resource cost recorded. Accuracy-first user authorization has no new runtime rejection gate."
+}

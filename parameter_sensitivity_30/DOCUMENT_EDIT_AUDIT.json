@@ -1,0 +1,74 @@
+[
+  {
+    "document": "manuscript_marked.docx",
+    "original_sha256": "fbc7cb08073728fd817b96e2d969d3c66166ee4b3025d0d4cf90afe0722118e5",
+    "staged_sha256": "96a8ab830ea0b4e4a5221b0c5d469b7abbf3c9c59c120c9d87d2b6a60a4a0b7f",
+    "changed_entries": [
+      "word/document.xml",
+      "word/media/image3.png",
+      "word/media/image5.png"
+    ],
+    "text_changes": [
+      {
+        "before": "Robust refinement of compact regions across workflows and external sections",
+        "after": "Robust refinement of compact regions across parameter settings and external sections"
+      },
+      {
+        "before": "Gains for compact regions stabilized over successive refinement rounds. From four to six rounds, mean best-IoU calculated with equal weight across samples ranged from 0.270693 to 0.270741 in development and from 0.343897 to 0.344037 externally. These narrow ranges showed that the final overlap gains were not confined to a single stopping point (Supplementary Tables S20 and S25).",
+        "after": "Gains for compact regions stabilized over successive refinement rounds. From four to six rounds, mean best-IoU calculated with equal weight across samples ranged from 0.270693 to 0.270741 in development and from 0.343897 to 0.344037 externally. These narrow ranges showed that the final overlap gains were not confined to a single stopping point (Supplementary Tables S20 and S25). Across expression weights from 0.70 to 0.90 and accepted-area retention from 95% to 100%, all 30 prespecified configurations had positive mean gains for every workflow and sample. Size 1–10 gain ranged from 0.1096 to 0.1179, with minimum workflow gains from 0.0665 to 0.0813 (Fig. 5b; Supplementary Table S31)."
+      },
+      {
+        "before": "RadarST exceeded random selection matched for both modification burden and geometry in both cohorts, supporting candidate prioritization beyond relabeling burden. Mean gains stayed positive across the evaluated settings for the number of refinement rounds and after omission of any external section. In external evaluation, selection that accounts for component properties reduced the fraction of loss events calculated with equal weight across samples from 5.85% to 4.45% and maintained positive mean gains across all 14 upstream workflows. The corresponding average best-IoU gains were 0.0948 for RadarST and 0.0893 for ordering by molecular score, with minimum workflow gains of 0.0183 and 0.0308, respectively (Supplementary Table S24).",
+        "after": "RadarST exceeded random selection matched for both modification burden and geometry in both cohorts, supporting candidate prioritization beyond relabeling burden. Mean gains stayed positive across the development parameter neighborhood, across the evaluated settings for the number of refinement rounds and after omission of any external section. In external evaluation, selection that accounts for component properties reduced the fraction of loss events calculated with equal weight across samples from 5.85% to 4.45% and maintained positive mean gains across all 14 upstream workflows. The corresponding average best-IoU gains were 0.0948 for RadarST and 0.0893 for ordering by molecular score, with minimum workflow gains of 0.0183 and 0.0308, respectively (Supplementary Table S24)."
+      },
+      {
+        "before": "We assessed sensitivity to iteration count by evaluating complete maps after zero through six refinement rounds. Each stopping point used the same trained models, features and rules for selecting actions (Supplementary Tables S20 and S25).",
+        "after": "We assessed sensitivity to iteration count by evaluating complete maps after zero through six refinement rounds. Each stopping point used the same trained models, features and rules for selecting actions (Supplementary Tables S20 and S25). We additionally evaluated all 30 combinations of five initialization expression weights (0.70, 0.75, 0.80, 0.85 and 0.90) and six accepted-area retention fractions (95%, 96%, 97%, 98%, 99% and 100%) in development. Models, candidate identities and the six-round refinement rule were unchanged. The main analysis used an expression weight of 0.80 and 97% retention (Supplementary Table S31)."
+      },
+      {
+        "before": "Figure 3. RadarST improves component overlap at each exact size across workflows and samples. a,b, Mean best-IoU calculated with equal weight across samples for connected components before and after RadarST at each exact component size in development and external evaluation. Shading denotes the paired difference between mean curves; absent exact sizes are left empty. c, Mean paired size 1–10 best-IoU gain for each upstream workflow. d, Improved, unchanged and decreased fractions of events defined by a component and a workflow at each exact size. e, Paired gain for each workflow and exact component size summarized equally across evaluable samples. f, Mean paired gain for each sample for all 12 development and 11 external samples.",
+        "after": "Figure 3. RadarST improves component overlap at each exact size across workflows and samples. a,b, Mean best-IoU calculated with equal weight across samples for connected components before and after RadarST at each exact component size in development and external evaluation. Shading denotes the paired difference between mean curves; absent exact sizes have no marker, and lines connect the available sizes. c, Mean paired size 1–10 best-IoU gain for each upstream workflow. d, Improved, unchanged and decreased fractions of events defined by a component and a workflow at each exact size. e, Paired gain for each workflow and exact component size summarized equally across evaluable samples. f, Mean paired gain for each sample for all 12 development and 11 external samples."
+      },
+      {
+        "before": "Figure 5. Candidate selection, refinement burden and sensitivity analyses. Candidate prioritization is evaluated using matched controls evaluated by complete writeback, while modification burden and summaries obtained by omitting one section at a time describe the resulting maps. Numerical results for matched random and molecular controls are provided in Supplementary Tables S19 and S24. Results for different numbers of conditional refinement rounds are provided in Supplementary Tables S20 and S25.",
+        "after": "Figure 5. Candidate selection, refinement burden and sensitivity analyses. Candidate prioritization is evaluated using matched controls evaluated by complete writeback, while modification burden and summaries obtained by omitting one section at a time describe the resulting maps. Numerical results for matched random and molecular controls are provided in Supplementary Tables S19 and S24. Results for different numbers of conditional refinement rounds are provided in Supplementary Tables S20 and S25. Panel b shows the 30 combinations of expression weight and retention during initialization (Supplementary Table S31). The outlined cell marks the 0.80 weight and 97% retention. Panel d shows the 312 maps with nonzero modification. Ten maps with zero modification and zero gain lie at the origin, outside the shown range. Cohort means include all 322 maps."
+      }
+    ]
+  },
+  {
+    "document": "Supplementary_Information.docx",
+    "original_sha256": "7daea9776d49a3caf5a5c0cb6625bf38e86dd3df55fe2305922699424ec9ad4d",
+    "staged_sha256": "66b9cc5bc5ca3ff0da99fed38bb16f31a7673b51d6cf26dfe61492a296909dd5",
+    "changed_entries": [
+      "word/document.xml"
+    ],
+    "text_changes": [
+      {
+        "before": "The accompanying workbook contains Supplementary Tables S1–S30. Tables S24–S25 provide matched prioritization controls and all-map iteration results. Tables S26–S28 describe the final selected-object population and its molecular attribution, S29 records the nine pathology reference examples across workflows, and S30 records molecular-example correspondence with final selected shapes.",
+        "after": "The accompanying workbook contains Supplementary Tables S1–S31. Tables S24–S25 provide matched prioritization controls and all-map iteration results. Tables S26–S28 describe the final selected-object population and its molecular attribution, S29 records the nine pathology reference examples across workflows, and S30 records molecular-example correspondence with final selected shapes. Supplementary Table S31 reports the 30 expression-weight and accepted-area retention combinations."
+      },
+      {
+        "before": "We evaluated every stopping point from zero through six rounds without changing the fitted models or acceptance rules. All six-round maps exactly matched the final predictions. Development mean best-IoU at four, five and six rounds was 0.270741, 0.270693 and 0.270699; external mean was 0.343897, 0.343944 and 0.344037. All seven stopping points are reported, and the fixed six-round policy was retained (Supplementary Tables S20 and S25).",
+        "after": "We evaluated every stopping point from zero through six rounds without changing the fitted models or acceptance rules. All six-round maps exactly matched the final predictions. Development mean best-IoU at four, five and six rounds was 0.270741, 0.270693 and 0.270699; external mean was 0.343897, 0.343944 and 0.344037. All seven stopping points are reported, and the fixed six-round policy was retained (Supplementary Tables S20 and S25).</w:r><w:r><w:t xml:space=\"preserve\"/></w:r></w:p><w:p><w:pPr><w:pStyle w:val=\"164\"/></w:pPr><w:r><w:rPr></w:rPr><w:t xml:space=\"preserve\"> We evaluated the 30 combinations of expression weight and retention of accepted area during initialization, using all 168 development maps for each combination. All configurations used the same models and the six-round refinement rule. The main analyses used an expression weight of 0.80 and 97% retention. Across expression weights from 0.70 to 0.90 and accepted-area retention from 95% to 100%, all 30 prespecified configurations had positive mean gains for every workflow and sample. Size 1–10 gain ranged from 0.1096 to 0.1179, with minimum workflow gains from 0.0665 to 0.0813 (Fig. 5b; Supplementary Table S31)."
+      }
+    ]
+  },
+  {
+    "document": "Supplementary_Information_marked.docx",
+    "original_sha256": "726a2d7a8db78026df9e8593af3567cc6621dbfc6eb56d6921a5411669842cc3",
+    "staged_sha256": "1b696e02996ac160ec61b4c7a4660a102cb12b17f3b456c8aa326da53b59881e",
+    "changed_entries": [
+      "word/document.xml"
+    ],
+    "text_changes": [
+      {
+        "before": "The accompanying workbook contains Supplementary Tables S1–S30. Tables S24–S25 provide matched prioritization controls and all-map iteration results. Tables S26–S28 describe the final selected-object population and its molecular attribution, S29 records the nine pathology reference examples across workflows, and S30 records molecular-example correspondence with final selected shapes.",
+        "after": "The accompanying workbook contains Supplementary Tables S1–S31. Tables S24–S25 provide matched prioritization controls and all-map iteration results. Tables S26–S28 describe the final selected-object population and its molecular attribution, S29 records the nine pathology reference examples across workflows, and S30 records molecular-example correspondence with final selected shapes. Supplementary Table S31 reports the 30 expression-weight and accepted-area retention combinations."
+      },
+      {
+        "before": "We evaluated every stopping point from zero through six rounds without changing the fitted models or acceptance rules. All six-round maps exactly matched the final predictions. Development mean best-IoU at four, five and six rounds was 0.270741, 0.270693 and 0.270699; external mean was 0.343897, 0.343944 and 0.344037. All seven stopping points are reported, and the fixed six-round policy was retained (Supplementary Tables S20 and S25).",
+        "after": "We evaluated every stopping point from zero through six rounds without changing the fitted models or acceptance rules. All six-round maps exactly matched the final predictions. Development mean best-IoU at four, five and six rounds was 0.270741, 0.270693 and 0.270699; external mean was 0.343897, 0.343944 and 0.344037. All seven stopping points are reported, and the fixed six-round policy was retained (Supplementary Tables S20 and S25).</w:r><w:r><w:t xml:space=\"preserve\"/></w:r></w:p><w:p><w:pPr><w:pStyle w:val=\"164\"/></w:pPr><w:r><w:rPr><w:color w:val=\"00008B\"/></w:rPr><w:t xml:space=\"preserve\"> We evaluated the 30 combinations of expression weight and retention of accepted area during initialization, using all 168 development maps for each combination. All configurations used the same models and the six-round refinement rule. The main analyses used an expression weight of 0.80 and 97% retention. Across expression weights from 0.70 to 0.90 and accepted-area retention from 95% to 100%, all 30 prespecified configurations had positive mean gains for every workflow and sample. Size 1–10 gain ranged from 0.1096 to 0.1179, with minimum workflow gains from 0.0665 to 0.0813 (Fig. 5b; Supplementary Table S31)."
+      }
+    ]
+  }
+]

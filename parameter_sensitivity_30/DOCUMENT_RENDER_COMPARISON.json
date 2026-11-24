@@ -1,0 +1,75 @@
+[
+  {
+    "document": "manuscript_marked.docx",
+    "before_pages": 24,
+    "after_pages": 25,
+    "changed_pages": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "docx_sha256": "96a8ab830ea0b4e4a5221b0c5d469b7abbf3c9c59c120c9d87d2b6a60a4a0b7f",
+    "pdf_sha256": "056483473cee9ca84a7cc852894520ad791bac5758fd6d0316e2a1fd9324fc1d",
+    "before_render_reused_after_exact_document_hash_verification": true
+  },
+  {
+    "document": "Supplementary_Information.docx",
+    "before_pages": 11,
+    "after_pages": 12,
+    "changed_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "docx_sha256": "66b9cc5bc5ca3ff0da99fed38bb16f31a7673b51d6cf26dfe61492a296909dd5",
+    "pdf_sha256": "d9c2e9bcd3c99c9b89bd74890d35177d7d6b85d4794af2b57311101ee0c6a89d",
+    "before_render_reused_after_exact_document_hash_verification": true
+  },
+  {
+    "document": "Supplementary_Information_marked.docx",
+    "before_pages": 11,
+    "after_pages": 12,
+    "changed_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "docx_sha256": "1b696e02996ac160ec61b4c7a4660a102cb12b17f3b456c8aa326da53b59881e",
+    "pdf_sha256": "530efb08e6c92b55de2b4856509a7ae3a194652247f46c4d3479be2d44d8fa77",
+    "before_render_reused_after_exact_document_hash_verification": true
+  }
+]

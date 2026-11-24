@@ -1,0 +1,56 @@
+{
+  "utc": "2026-11-11T12:38:30.785533+00:00",
+  "all_changed_document_pages_reviewed": true,
+  "final_figures_reviewed": true,
+  "S31_reviewed": true,
+  "reviewed_sha256": {
+    "H:\\RadarST_FigureRevision2_20261111\\figures\\Figure3.png": "7ad9c62df59ba98bc422fd0e835c42931db89a3b6e6d9ee2fe06a79bdc2cea7a",
+    "H:\\RadarST_FigureRevision2_20261111\\figures\\Figure3.pdf": "01b6f1b2addbd44b72c5d1dde22d47fc03c5115141e9c44d4839153ca0f6d49c",
+    "H:\\RadarST_FigureRevision2_20261111\\figures\\Figure3.svg": "4953fb158ffeec29e81e55f739df291cadce8d7f3303b1a5722ff9a4f42a2887",
+    "H:\\RadarST_FigureRevision2_20261111\\figures\\Figure5.png": "800039240bb2b482341663093a08bd44fb4cac7f6e0f8b953c781b739b866ad3",
+    "H:\\RadarST_FigureRevision2_20261111\\figures\\Figure5.pdf": "ee3922512721aeaf9c851e3442b51e135af9e02651336991ec0a2a9fdc5ae798",
+    "H:\\RadarST_FigureRevision2_20261111\\figures\\Figure5.svg": "2f0ae4ce6afcb09facc88d60f22557e9a53e4172ec86aa963271339f9035ed1f",
+    "H:\\RadarST_FigureRevision2_20261111\\figures\\Figure5_all322_maps.png": "1aa519770ccdfa31e5682a6eaff37ec5d6d9fe78552e3e7aac1988091efc1948",
+    "H:\\RadarST_FigureRevision2_20261111\\figures\\Figure5_all322_maps.pdf": "060413766deac1a19879d454f27b53fc114c036addbfbe9349cba6a2670db6a6",
+    "H:\\RadarST_FigureRevision2_20261111\\figures\\Figure5_all322_maps.svg": "2251896100d7cbf4f6362b652b4fe19271658d83148f9c2aae4d831b3db23ab5",
+    "H:\\RadarST_FigureRevision2_20261111\\staged\\manuscript_marked.docx": "96a8ab830ea0b4e4a5221b0c5d469b7abbf3c9c59c120c9d87d2b6a60a4a0b7f",
+    "H:\\RadarST_FigureRevision2_20261111\\qa\\staged_manuscript_marked\\manuscript_marked.pdf": "056483473cee9ca84a7cc852894520ad791bac5758fd6d0316e2a1fd9324fc1d",
+    "H:\\RadarST_FigureRevision2_20261111\\staged\\Supplementary_Information.docx": "66b9cc5bc5ca3ff0da99fed38bb16f31a7673b51d6cf26dfe61492a296909dd5",
+    "H:\\RadarST_FigureRevision2_20261111\\qa\\staged_Supplementary_Information\\Supplementary_Information.pdf": "d9c2e9bcd3c99c9b89bd74890d35177d7d6b85d4794af2b57311101ee0c6a89d",
+    "H:\\RadarST_FigureRevision2_20261111\\staged\\Supplementary_Information_marked.docx": "1b696e02996ac160ec61b4c7a4660a102cb12b17f3b456c8aa326da53b59881e",
+    "H:\\RadarST_FigureRevision2_20261111\\qa\\staged_Supplementary_Information_marked\\Supplementary_Information_marked.pdf": "530efb08e6c92b55de2b4856509a7ae3a194652247f46c4d3479be2d44d8fa77",
+    "H:\\RadarST_FigureRevision2_20261111\\staged\\Supplementary_Tables.xlsx": "a1a1b9207db16ebccae43f074b129a7cbf1316cd797787c24701a9de8ae2eabd"
+  },
+  "document_review": {
+    "main_pages": 25,
+    "supplementary_pages_each": 12,
+    "all_pages_checked_in_contact_sheets": true,
+    "detailed_main_pages": [
+      5,
+      6,
+      12,
+      22,
+      24
+    ],
+    "detailed_supplementary_pages": [
+      2,
+      7
+    ],
+    "no_clipped_text_or_figure_captions_observed": true,
+    "existing_rich_prose_preserved": true,
+    "addition_color_marked": "00008B"
+  },
+  "figure_review": {
+    "Figure3": "Both upper ranges0 to0.5, size8 directly connected to10, no invented size9 point; unchanged lower-panel data retained.",
+    "Figure5": "Original parameter-grid geometry, fonts, colors and marked default cell retained; all60 cell values independently checked.",
+    "scatter": "312 nonzero maps in zoom; all322 remain in statistics; complete-range export visually checked.",
+    "raw_collision_review_record": "FIGURE5_COLLISION_SCOPE_REVIEW.json"
+  },
+  "workbook_review": {
+    "all30_rows_and32_columns_reimported_and_checked": true,
+    "all_existing_S1_to_S30_preserved": true,
+    "full_sheet_render_reviewed": true,
+    "new_Index_entry_reviewed": true,
+    "header_wrapping_corrected_on_new_sheet_only": true
+  }
+}

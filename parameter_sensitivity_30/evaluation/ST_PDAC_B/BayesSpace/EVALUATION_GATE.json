@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "ST_PDAC_B",
+  "workflow": "BayesSpace",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "03fcc49dd694f4024795652aeb03a72c3923efc7745ae34c44ba83a779c54678",
+  "prediction_sha256": "dd963b6d6509ae4780cabae722448878c7d406fc5133aa5eda362a0f4fe49309",
+  "map_results_sha256": "d94de527495ebd5a95872a685afc96e6aa3dd14279e8a42457427151713f33ff",
+  "component_results_sha256": "09d73bf8e0ba0a7184a45dfe8b685b21cd44179b0990b8ee890a27949a92f9df",
+  "seconds": 0.13103532791137695
+}

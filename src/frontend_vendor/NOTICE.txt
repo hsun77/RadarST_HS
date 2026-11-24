@@ -1,0 +1,1 @@
+Third-party BANKSY source and distribution metadata are preserved unchanged with their original license. The root LICENSE applies to author-provided RadarST code; third-party terms remain in the distribution metadata.

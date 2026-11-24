@@ -1,0 +1,7 @@
+{
+  "synthetic_labelings": 81,
+  "explicit_equal_IoU_different_purity_case": true,
+  "tie_break": "prediction component with lowest member index, matching frozen region ordering",
+  "independent_explicit_set_max_error": 0.0,
+  "real_reference_files_read": false
+}

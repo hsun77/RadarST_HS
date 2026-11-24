@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "A07",
+  "workflow": "SEDR",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "861c2d57687f4ba7165610e01556bd6e62ea6008fdea91ee5fe4ddba512be7e9",
+  "prediction_sha256": "4f8078dbb3ef2e2043ee6bdc9e9d10e773c28a2375c9c8ed71147265b5a74a86",
+  "map_results_sha256": "a5353ffb9f88fbd3ab43a85fb2dd2d7903536760631f84e45300045810ea1b2b",
+  "component_results_sha256": "006555e366305db3e4dbdebfd074b3a4e74e072c678029e3d80c0729490239d7",
+  "seconds": 0.37700796127319336
+}

@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "A09",
+  "workflow": "DeepST",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "7f43854f37ae2c24f464342cf1f7bfbf685330cf7de6b1be39427a383fb3a1f7",
+  "prediction_sha256": "25551e75c4c86d132f7604dd6f98a50b6cea834091f5c22275d1610517373121",
+  "map_results_sha256": "db6617fc09237eb35da4cc59eba9c13e1707cc2867ff2a222a20f62e24bbc42f",
+  "component_results_sha256": "eec13f79b83dd1302f71018b8d7516eda3ee2b392622cfced72371f10c57a3b2",
+  "seconds": 0.1964414119720459
+}

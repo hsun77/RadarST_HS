@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "dataset": "A07",
+  "workflow": "BayesSpace",
+  "configurations": 30,
+  "no_reference_read": true,
+  "formal_initialization_exact_parity": true,
+  "formal_E2_labels_exact_parity": true,
+  "utility_model_sha256": "208a69e1356764ca5cf9fc4ca8738c8ed490cc7b9a5eb447677124ffb41b42c1",
+  "event_model_sha256": "605acae710dbe6b09de683ca4c137fa5a406901a73bd8eeae0db079aef1b1ff7",
+  "training_datasets": [
+    "10X_BC",
+    "A01",
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A06",
+    "A08",
+    "A09",
+    "ST_PDAC_A",
+    "ST_PDAC_B"
+  ],
+  "predictions_sha256": "9629214861f28722ef32af0a218f9142665a9f166802e58dca5170f4e6fc5d56",
+  "seconds": 332.8475167751312,
+  "initialization_seconds": 16.95511269569397,
+  "new_feature_states": 30,
+  "cached_feature_states": 0,
+  "input_sha256": {
+    "H:\\RadarST_2_ObjectValue_20261104\\inputs\\A07\\BayesSpace\\MAP.npz": "c9ce2c5cb08c5738ab93d9a20df58be78a9bae5252d1a704a44c568296413a43",
+    "H:\\RadarST_2_ObjectValue_20261104\\inputs\\A07\\BayesSpace\\CANDIDATES.parquet": "c7598937615d5a98ced38d575ade62f6a6534ff9e1c9e0e15d16734096b71a78",
+    "H:\\RadarST_2_ObjectValue_20261104\\inputs\\A07\\BayesSpace\\BASE_FEATURES.parquet": "c60010804a37a7518e662f42d89f422fcede590dabc6c0615412e6b2a6015447",
+    "H:\\RadarST_I3_REBUILD_20261021\\runs\\a0_frontend\\A07\\BayesSpace\\features.parquet": "0dac6d10ba992c6b62bb815c9a05061bda7a4a0e7610f92c1e16c00cbdcd6cd6",
+    "H:\\RadarST_I3_REBUILD_20261021\\runs\\a0_frontend\\A07\\BayesSpace\\ranking.parquet": "ffec45f95e107a76da6328ae2710ef01964504666ed6162a0c5b2621a82dcead",
+    "H:\\RadarST_I3_REBUILD_20261021\\runs\\a0_frontend\\A07\\BayesSpace\\slots.csv": "867594c685ab4c64c32857445e225101cf43df906a848c28a0b7dcc9dfff8481",
+    "H:\\RadarST_2_ObjectValue_20261104\\features\\A07\\GENE_OBJECT_EVIDENCE.parquet": "5ff30788faf3100734577713e335b2e245f5caf6bef15ca41ecbd1a1ceb0fc75"
+  }
+}

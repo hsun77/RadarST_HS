@@ -1,0 +1,23 @@
+# Expression weight and retention sensitivity
+
+The experiment supplies the missing data for the original Figure 5b parameter grid. It does not select a new reported configuration. The reported expression weight remains 0.80, retention remains 97%, and the conditional policy remains six rounds.
+
+The protocol was locked in PROTOCOL_LOCK.json before the grid was run. Five expression weights, 0.70, 0.75, 0.80, 0.85 and 0.90, are crossed with six retention fractions, 0.95, 0.96, 0.97, 0.98, 0.99 and 1.00. Every configuration is applied to all 12 Development sections and all 14 workflows, yielding 5,040 complete predicted label maps. No External sensitivity experiment is performed.
+
+Initialization uses the original 96-attempt exact-token assignment. Its candidate score is w times the frozen molecular percentile plus (1-w) times the frozen expected-gain rank, minus 0.025 times the frozen cross-component risk. The expected-gain coefficient is rounded to its prespecified decimal value, including exactly 0.20 in the reported configuration. The original eligibility and composition slots, candidate identities, candidate membership and spatial graph are retained. Candidate order and the original deterministic search seed are retained. Atomic candidates are retained in descending selection score, with the original candidate-key tie break, until the floor of the retention fraction times pre-retention area is reached.
+
+The frozen section-excluded utility and event models then apply the original six-round E2 policy. The feature order, allowed action constraints, predicted event-credit rule, candidate conflicts, deterministic ordering and label-writeback function are unchanged. No model is fitted or calibrated. Both model training registries must exclude the held-out section.
+
+The inference process prohibits opening the registered reference labels, metadata, training targets, evaluations and manuscript endpoint tables. Its filesystem audit hook prohibits writes outside this experiment directory. Frozen final labels are read only after the corresponding reported-configuration prediction has been produced, for exact engineering parity. They are never supplied to a decision feature or a candidate score.
+
+Every map must reproduce both the frozen initialization membership and the frozen final labels exactly at w=0.80 and retention=0.97. A discrepancy stops the run. Each map stores all 30 complete label vectors, ordered spot IDs, final candidate indices, initialization indices, decisions, source hashes and model hashes. After all 168 map containers have passed, ALL5040_PREDICTIONS_LOCKED.json records their gate hashes. Reference evaluation is prohibited before this global lock exists and has been verified.
+
+Evaluation preserves the existing reference-label exclusions, reference connected components, predicted-component graph and explicit set-IoU definition. Components are averaged within each workflow and section, the 14 workflows are averaged within section, and the 12 sections have equal weight. Unavailable exact-size strata are omitted, not set to zero. Minimum workflow gain is the minimum of the 14 workflow means after equal-section aggregation. All positive, zero and negative results are retained. The reported configuration is checked against all frozen map-level and component-level endpoints. An independently implemented sparse evaluator is checked against the explicit-set evaluator on the reported configuration of every map and on all 30 configurations of the initial engineering map.
+
+The original Figure 5b geometry, 5 by 6 cells, parameter coordinates, typeface, blue palette and reported-cell outline are retained. Only measured values and their color calibration are updated. Existing zero-through-six-round results and their Supplementary Tables S20 and S25 remain intact. Supplementary Table S31 records the new parameter grid.
+
+Figure 5d is a display zoom, not a data exclusion. Its horizontal range is 10% to 40%. Ten maps at zero modification and zero gain lie outside that range. All 322 maps remain in source data, cohort means and statistics. An additional full-range Figure 5 export retains those ten maps.
+
+Engineering records include the initial assertion that every raw candidate was legal. That assertion was corrected to the original frozen legal-candidate filter before the engineering parity test passed. No reference endpoint was used for this correction. Presentation checks also caught and corrected a nested-SVG coordinate transform in the zoom code before delivery.
+
+The Development sections have been used previously in research. This is a sensitivity analysis of the reported method, not new independent validation and not an optimization experiment.

@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "ST_PDAC_B",
+  "workflow": "stLearn",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "03fcc49dd694f4024795652aeb03a72c3923efc7745ae34c44ba83a779c54678",
+  "prediction_sha256": "427e086b07357f604502780da46f5c31dda40143c8e5f9ec67cd4aee72dff158",
+  "map_results_sha256": "c2f66fd64705d91436bcea85966a248cf6c478901d1ddcee8963437df340260e",
+  "component_results_sha256": "36edf7bcab50820c7c28f16222b01e4fa9a359db1e8d6ff71f8926499f4d74cc",
+  "seconds": 0.12627005577087402
+}

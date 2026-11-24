@@ -1,0 +1,1354 @@
+{
+  "status": "PASS",
+  "maps": 168,
+  "candidate_events": 3336046,
+  "reference_files_read": false,
+  "seconds": 8.869529962539673,
+  "code_sha256": "e75b2a93e3b1cc52a1e37ccb2f60b36d7a0604f757c78d89e83ddf4d15dbbcbe",
+  "rows": [
+    {
+      "dataset": "10X_BC",
+      "workflow": "BayesSpace",
+      "spots": 3798,
+      "candidates": 29729,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "10X_BC",
+      "workflow": "CCST",
+      "spots": 3798,
+      "candidates": 29729,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "10X_BC",
+      "workflow": "DeepST",
+      "spots": 3798,
+      "candidates": 29729,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "10X_BC",
+      "workflow": "GraphST",
+      "spots": 3798,
+      "candidates": 29729,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "10X_BC",
+      "workflow": "SCGDL",
+      "spots": 3798,
+      "candidates": 29729,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "10X_BC",
+      "workflow": "SEDR",
+      "spots": 3798,
+      "candidates": 29729,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "10X_BC",
+      "workflow": "STAGATE",
+      "spots": 3798,
+      "candidates": 29729,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "10X_BC",
+      "workflow": "STMGCN",
+      "spots": 3798,
+      "candidates": 29729,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "10X_BC",
+      "workflow": "Seurat",
+      "spots": 3798,
+      "candidates": 29729,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "10X_BC",
+      "workflow": "SpaGCN",
+      "spots": 3798,
+      "candidates": 29729,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "10X_BC",
+      "workflow": "SpaceFlow",
+      "spots": 3798,
+      "candidates": 29729,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "10X_BC",
+      "workflow": "Spatial_MGCN",
+      "spots": 3798,
+      "candidates": 29729,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "10X_BC",
+      "workflow": "conST",
+      "spots": 3798,
+      "candidates": 29729,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "10X_BC",
+      "workflow": "stLearn",
+      "spots": 3798,
+      "candidates": 29729,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A01",
+      "workflow": "BayesSpace",
+      "spots": 2516,
+      "candidates": 19141,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A01",
+      "workflow": "CCST",
+      "spots": 2516,
+      "candidates": 19141,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A01",
+      "workflow": "DeepST",
+      "spots": 2516,
+      "candidates": 19141,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A01",
+      "workflow": "GraphST",
+      "spots": 2516,
+      "candidates": 19141,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A01",
+      "workflow": "SCGDL",
+      "spots": 2516,
+      "candidates": 19141,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A01",
+      "workflow": "SEDR",
+      "spots": 2516,
+      "candidates": 19141,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A01",
+      "workflow": "STAGATE",
+      "spots": 2516,
+      "candidates": 19141,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A01",
+      "workflow": "STMGCN",
+      "spots": 2516,
+      "candidates": 19141,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A01",
+      "workflow": "Seurat",
+      "spots": 2516,
+      "candidates": 19141,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A01",
+      "workflow": "SpaGCN",
+      "spots": 2516,
+      "candidates": 19141,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A01",
+      "workflow": "SpaceFlow",
+      "spots": 2516,
+      "candidates": 19141,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A01",
+      "workflow": "Spatial_MGCN",
+      "spots": 2516,
+      "candidates": 19141,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A01",
+      "workflow": "conST",
+      "spots": 2516,
+      "candidates": 19141,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A01",
+      "workflow": "stLearn",
+      "spots": 2516,
+      "candidates": 19141,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A02",
+      "workflow": "BayesSpace",
+      "spots": 3690,
+      "candidates": 28361,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A02",
+      "workflow": "CCST",
+      "spots": 3690,
+      "candidates": 28361,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A02",
+      "workflow": "DeepST",
+      "spots": 3690,
+      "candidates": 28361,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A02",
+      "workflow": "GraphST",
+      "spots": 3690,
+      "candidates": 28361,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A02",
+      "workflow": "SCGDL",
+      "spots": 3690,
+      "candidates": 28361,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A02",
+      "workflow": "SEDR",
+      "spots": 3690,
+      "candidates": 28361,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A02",
+      "workflow": "STAGATE",
+      "spots": 3690,
+      "candidates": 28361,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A02",
+      "workflow": "STMGCN",
+      "spots": 3690,
+      "candidates": 28361,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A02",
+      "workflow": "Seurat",
+      "spots": 3690,
+      "candidates": 28361,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A02",
+      "workflow": "SpaGCN",
+      "spots": 3690,
+      "candidates": 28361,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A02",
+      "workflow": "SpaceFlow",
+      "spots": 3690,
+      "candidates": 28361,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A02",
+      "workflow": "Spatial_MGCN",
+      "spots": 3690,
+      "candidates": 28361,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A02",
+      "workflow": "conST",
+      "spots": 3690,
+      "candidates": 28361,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A02",
+      "workflow": "stLearn",
+      "spots": 3690,
+      "candidates": 28361,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A03",
+      "workflow": "BayesSpace",
+      "spots": 1870,
+      "candidates": 13929,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A03",
+      "workflow": "CCST",
+      "spots": 1870,
+      "candidates": 13929,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A03",
+      "workflow": "DeepST",
+      "spots": 1870,
+      "candidates": 13929,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A03",
+      "workflow": "GraphST",
+      "spots": 1870,
+      "candidates": 13929,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A03",
+      "workflow": "SCGDL",
+      "spots": 1870,
+      "candidates": 13929,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A03",
+      "workflow": "SEDR",
+      "spots": 1870,
+      "candidates": 13929,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A03",
+      "workflow": "STAGATE",
+      "spots": 1870,
+      "candidates": 13929,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A03",
+      "workflow": "STMGCN",
+      "spots": 1870,
+      "candidates": 13929,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A03",
+      "workflow": "Seurat",
+      "spots": 1870,
+      "candidates": 13929,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A03",
+      "workflow": "SpaGCN",
+      "spots": 1870,
+      "candidates": 13929,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A03",
+      "workflow": "SpaceFlow",
+      "spots": 1870,
+      "candidates": 13929,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A03",
+      "workflow": "Spatial_MGCN",
+      "spots": 1870,
+      "candidates": 13929,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A03",
+      "workflow": "conST",
+      "spots": 1870,
+      "candidates": 13929,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A03",
+      "workflow": "stLearn",
+      "spots": 1870,
+      "candidates": 13929,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A04",
+      "workflow": "BayesSpace",
+      "spots": 2654,
+      "candidates": 20078,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A04",
+      "workflow": "CCST",
+      "spots": 2654,
+      "candidates": 20078,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A04",
+      "workflow": "DeepST",
+      "spots": 2654,
+      "candidates": 20078,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A04",
+      "workflow": "GraphST",
+      "spots": 2654,
+      "candidates": 20078,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A04",
+      "workflow": "SCGDL",
+      "spots": 2654,
+      "candidates": 20078,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A04",
+      "workflow": "SEDR",
+      "spots": 2654,
+      "candidates": 20078,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A04",
+      "workflow": "STAGATE",
+      "spots": 2654,
+      "candidates": 20078,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A04",
+      "workflow": "STMGCN",
+      "spots": 2654,
+      "candidates": 20078,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A04",
+      "workflow": "Seurat",
+      "spots": 2654,
+      "candidates": 20078,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A04",
+      "workflow": "SpaGCN",
+      "spots": 2654,
+      "candidates": 20078,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A04",
+      "workflow": "SpaceFlow",
+      "spots": 2654,
+      "candidates": 20078,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A04",
+      "workflow": "Spatial_MGCN",
+      "spots": 2654,
+      "candidates": 20078,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A04",
+      "workflow": "conST",
+      "spots": 2654,
+      "candidates": 20078,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A04",
+      "workflow": "stLearn",
+      "spots": 2654,
+      "candidates": 20078,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A05",
+      "workflow": "BayesSpace",
+      "spots": 4361,
+      "candidates": 33759,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A05",
+      "workflow": "CCST",
+      "spots": 4361,
+      "candidates": 33759,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A05",
+      "workflow": "DeepST",
+      "spots": 4361,
+      "candidates": 33759,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A05",
+      "workflow": "GraphST",
+      "spots": 4361,
+      "candidates": 33759,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A05",
+      "workflow": "SCGDL",
+      "spots": 4361,
+      "candidates": 33759,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A05",
+      "workflow": "SEDR",
+      "spots": 4361,
+      "candidates": 33759,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A05",
+      "workflow": "STAGATE",
+      "spots": 4361,
+      "candidates": 33759,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A05",
+      "workflow": "STMGCN",
+      "spots": 4361,
+      "candidates": 33759,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A05",
+      "workflow": "Seurat",
+      "spots": 4361,
+      "candidates": 33759,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A05",
+      "workflow": "SpaGCN",
+      "spots": 4361,
+      "candidates": 33759,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A05",
+      "workflow": "SpaceFlow",
+      "spots": 4361,
+      "candidates": 33759,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A05",
+      "workflow": "Spatial_MGCN",
+      "spots": 4361,
+      "candidates": 33759,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A05",
+      "workflow": "conST",
+      "spots": 4361,
+      "candidates": 33759,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A05",
+      "workflow": "stLearn",
+      "spots": 4361,
+      "candidates": 33759,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A06",
+      "workflow": "BayesSpace",
+      "spots": 2935,
+      "candidates": 21672,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A06",
+      "workflow": "CCST",
+      "spots": 2935,
+      "candidates": 21672,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A06",
+      "workflow": "DeepST",
+      "spots": 2935,
+      "candidates": 21672,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A06",
+      "workflow": "GraphST",
+      "spots": 2935,
+      "candidates": 21672,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A06",
+      "workflow": "SCGDL",
+      "spots": 2935,
+      "candidates": 21672,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A06",
+      "workflow": "SEDR",
+      "spots": 2935,
+      "candidates": 21672,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A06",
+      "workflow": "STAGATE",
+      "spots": 2935,
+      "candidates": 21672,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A06",
+      "workflow": "STMGCN",
+      "spots": 2935,
+      "candidates": 21672,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A06",
+      "workflow": "Seurat",
+      "spots": 2935,
+      "candidates": 21672,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A06",
+      "workflow": "SpaGCN",
+      "spots": 2935,
+      "candidates": 21672,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A06",
+      "workflow": "SpaceFlow",
+      "spots": 2935,
+      "candidates": 21672,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A06",
+      "workflow": "Spatial_MGCN",
+      "spots": 2935,
+      "candidates": 21672,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A06",
+      "workflow": "conST",
+      "spots": 2935,
+      "candidates": 21672,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A06",
+      "workflow": "stLearn",
+      "spots": 2935,
+      "candidates": 21672,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A07",
+      "workflow": "BayesSpace",
+      "spots": 3780,
+      "candidates": 29194,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A07",
+      "workflow": "CCST",
+      "spots": 3780,
+      "candidates": 29194,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A07",
+      "workflow": "DeepST",
+      "spots": 3780,
+      "candidates": 29194,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A07",
+      "workflow": "GraphST",
+      "spots": 3780,
+      "candidates": 29194,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A07",
+      "workflow": "SCGDL",
+      "spots": 3780,
+      "candidates": 29194,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A07",
+      "workflow": "SEDR",
+      "spots": 3780,
+      "candidates": 29194,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A07",
+      "workflow": "STAGATE",
+      "spots": 3780,
+      "candidates": 29194,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A07",
+      "workflow": "STMGCN",
+      "spots": 3780,
+      "candidates": 29194,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A07",
+      "workflow": "Seurat",
+      "spots": 3780,
+      "candidates": 29194,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A07",
+      "workflow": "SpaGCN",
+      "spots": 3780,
+      "candidates": 29194,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A07",
+      "workflow": "SpaceFlow",
+      "spots": 3780,
+      "candidates": 29194,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A07",
+      "workflow": "Spatial_MGCN",
+      "spots": 3780,
+      "candidates": 29194,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A07",
+      "workflow": "conST",
+      "spots": 3780,
+      "candidates": 29194,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A07",
+      "workflow": "stLearn",
+      "spots": 3780,
+      "candidates": 29194,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A08",
+      "workflow": "BayesSpace",
+      "spots": 2939,
+      "candidates": 21932,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A08",
+      "workflow": "CCST",
+      "spots": 2939,
+      "candidates": 21932,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A08",
+      "workflow": "DeepST",
+      "spots": 2939,
+      "candidates": 21932,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A08",
+      "workflow": "GraphST",
+      "spots": 2939,
+      "candidates": 21932,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A08",
+      "workflow": "SCGDL",
+      "spots": 2939,
+      "candidates": 21932,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A08",
+      "workflow": "SEDR",
+      "spots": 2939,
+      "candidates": 21932,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A08",
+      "workflow": "STAGATE",
+      "spots": 2939,
+      "candidates": 21932,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A08",
+      "workflow": "STMGCN",
+      "spots": 2939,
+      "candidates": 21932,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A08",
+      "workflow": "Seurat",
+      "spots": 2939,
+      "candidates": 21932,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A08",
+      "workflow": "SpaGCN",
+      "spots": 2939,
+      "candidates": 21932,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A08",
+      "workflow": "SpaceFlow",
+      "spots": 2939,
+      "candidates": 21932,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A08",
+      "workflow": "Spatial_MGCN",
+      "spots": 2939,
+      "candidates": 21932,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A08",
+      "workflow": "conST",
+      "spots": 2939,
+      "candidates": 21932,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A08",
+      "workflow": "stLearn",
+      "spots": 2939,
+      "candidates": 21932,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A09",
+      "workflow": "BayesSpace",
+      "spots": 2017,
+      "candidates": 14998,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A09",
+      "workflow": "CCST",
+      "spots": 2017,
+      "candidates": 14998,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A09",
+      "workflow": "DeepST",
+      "spots": 2017,
+      "candidates": 14998,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A09",
+      "workflow": "GraphST",
+      "spots": 2017,
+      "candidates": 14998,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A09",
+      "workflow": "SCGDL",
+      "spots": 2017,
+      "candidates": 14998,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A09",
+      "workflow": "SEDR",
+      "spots": 2017,
+      "candidates": 14998,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A09",
+      "workflow": "STAGATE",
+      "spots": 2017,
+      "candidates": 14998,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A09",
+      "workflow": "STMGCN",
+      "spots": 2017,
+      "candidates": 14998,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A09",
+      "workflow": "Seurat",
+      "spots": 2017,
+      "candidates": 14998,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A09",
+      "workflow": "SpaGCN",
+      "spots": 2017,
+      "candidates": 14998,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A09",
+      "workflow": "SpaceFlow",
+      "spots": 2017,
+      "candidates": 14998,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A09",
+      "workflow": "Spatial_MGCN",
+      "spots": 2017,
+      "candidates": 14998,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A09",
+      "workflow": "conST",
+      "spots": 2017,
+      "candidates": 14998,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "A09",
+      "workflow": "stLearn",
+      "spots": 2017,
+      "candidates": 14998,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_A",
+      "workflow": "BayesSpace",
+      "spots": 428,
+      "candidates": 3606,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_A",
+      "workflow": "CCST",
+      "spots": 428,
+      "candidates": 3606,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_A",
+      "workflow": "DeepST",
+      "spots": 428,
+      "candidates": 3606,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_A",
+      "workflow": "GraphST",
+      "spots": 428,
+      "candidates": 3606,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_A",
+      "workflow": "SCGDL",
+      "spots": 428,
+      "candidates": 3606,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_A",
+      "workflow": "SEDR",
+      "spots": 428,
+      "candidates": 3606,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_A",
+      "workflow": "STAGATE",
+      "spots": 428,
+      "candidates": 3606,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_A",
+      "workflow": "STMGCN",
+      "spots": 428,
+      "candidates": 3606,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_A",
+      "workflow": "Seurat",
+      "spots": 428,
+      "candidates": 3606,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_A",
+      "workflow": "SpaGCN",
+      "spots": 428,
+      "candidates": 3606,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_A",
+      "workflow": "SpaceFlow",
+      "spots": 428,
+      "candidates": 3606,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_A",
+      "workflow": "Spatial_MGCN",
+      "spots": 428,
+      "candidates": 3606,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_A",
+      "workflow": "conST",
+      "spots": 428,
+      "candidates": 3606,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_A",
+      "workflow": "stLearn",
+      "spots": 428,
+      "candidates": 3606,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_B",
+      "workflow": "BayesSpace",
+      "spots": 224,
+      "candidates": 1890,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_B",
+      "workflow": "CCST",
+      "spots": 224,
+      "candidates": 1890,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_B",
+      "workflow": "DeepST",
+      "spots": 224,
+      "candidates": 1890,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_B",
+      "workflow": "GraphST",
+      "spots": 224,
+      "candidates": 1890,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_B",
+      "workflow": "SCGDL",
+      "spots": 224,
+      "candidates": 1890,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_B",
+      "workflow": "SEDR",
+      "spots": 224,
+      "candidates": 1890,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_B",
+      "workflow": "STAGATE",
+      "spots": 224,
+      "candidates": 1890,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_B",
+      "workflow": "STMGCN",
+      "spots": 224,
+      "candidates": 1890,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_B",
+      "workflow": "Seurat",
+      "spots": 224,
+      "candidates": 1890,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_B",
+      "workflow": "SpaGCN",
+      "spots": 224,
+      "candidates": 1890,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_B",
+      "workflow": "SpaceFlow",
+      "spots": 224,
+      "candidates": 1890,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_B",
+      "workflow": "Spatial_MGCN",
+      "spots": 224,
+      "candidates": 1890,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_B",
+      "workflow": "conST",
+      "spots": 224,
+      "candidates": 1890,
+      "unique_spots": true,
+      "unique_candidates": true
+    },
+    {
+      "dataset": "ST_PDAC_B",
+      "workflow": "stLearn",
+      "spots": 224,
+      "candidates": 1890,
+      "unique_spots": true,
+      "unique_candidates": true
+    }
+  ]
+}

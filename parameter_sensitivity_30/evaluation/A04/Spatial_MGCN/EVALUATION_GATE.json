@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "A04",
+  "workflow": "Spatial_MGCN",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "8d1063044383ddaf0d111cb74b1156787eb6c381643ad0e608d11d89db5fb6d3",
+  "prediction_sha256": "8e21045020930e9b8dd7ce974b2a77723068e82c7eb9edb7de83bc4d853cf95f",
+  "map_results_sha256": "e303f598f80ea79c7d083dd9d8c7c25f8a5f1dd415e4e8e5f691721ca9face45",
+  "component_results_sha256": "1118f05d252075b7969859e36f5974daf856f4a75b552b9c0cf012a67fe112cd",
+  "seconds": 0.24272370338439941
+}

@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "dataset": "A07",
+  "workflow": "Spatial_MGCN",
+  "configurations": 30,
+  "no_reference_read": true,
+  "formal_initialization_exact_parity": true,
+  "formal_E2_labels_exact_parity": true,
+  "utility_model_sha256": "208a69e1356764ca5cf9fc4ca8738c8ed490cc7b9a5eb447677124ffb41b42c1",
+  "event_model_sha256": "605acae710dbe6b09de683ca4c137fa5a406901a73bd8eeae0db079aef1b1ff7",
+  "training_datasets": [
+    "10X_BC",
+    "A01",
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A06",
+    "A08",
+    "A09",
+    "ST_PDAC_A",
+    "ST_PDAC_B"
+  ],
+  "predictions_sha256": "da7ac1f9005ea137f2a173356b1c97d748ad3c0d4f9a5fe5a2f8e676aca7fc05",
+  "seconds": 212.27437281608582,
+  "initialization_seconds": 11.46064305305481,
+  "new_feature_states": 30,
+  "cached_feature_states": 0,
+  "input_sha256": {
+    "H:\\RadarST_2_ObjectValue_20261104\\inputs\\A07\\Spatial_MGCN\\MAP.npz": "db9d9c584a3a962c7f28501bef7f8f507dcdeb54e9c54b1c0aaa46e740bc5461",
+    "H:\\RadarST_2_ObjectValue_20261104\\inputs\\A07\\Spatial_MGCN\\CANDIDATES.parquet": "c7598937615d5a98ced38d575ade62f6a6534ff9e1c9e0e15d16734096b71a78",
+    "H:\\RadarST_2_ObjectValue_20261104\\inputs\\A07\\Spatial_MGCN\\BASE_FEATURES.parquet": "ba156adbdf1aa79e99aa25fc26ca6066a93042c9036fbff7057859aa01578a64",
+    "H:\\RadarST_I3_REBUILD_20261021\\runs\\a0_frontend\\A07\\Spatial_MGCN\\features.parquet": "987ae2185d98f8e9dab1c55ce14d9be2ae28e91bb65df36131cc0bc89143cc04",
+    "H:\\RadarST_I3_REBUILD_20261021\\runs\\a0_frontend\\A07\\Spatial_MGCN\\ranking.parquet": "fc657d254913253168982210b501a38fec1560878fe37cbb65b22d63dfae0063",
+    "H:\\RadarST_I3_REBUILD_20261021\\runs\\a0_frontend\\A07\\Spatial_MGCN\\slots.csv": "7dce09c7c426dcc2d2b44d5d07a711856b6ca5501506cfb57615c241ec426885",
+    "H:\\RadarST_2_ObjectValue_20261104\\features\\A07\\GENE_OBJECT_EVIDENCE.parquet": "5ff30788faf3100734577713e335b2e245f5caf6bef15ca41ecbd1a1ceb0fc75"
+  }
+}

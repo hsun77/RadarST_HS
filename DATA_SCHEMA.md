@@ -1,0 +1,5 @@
+# Prepared input
+
+MAP.npz: unique string spots, N×2 xy, integer upstream base, edge pairs and expression-derived pcs; no pathological annotations. CANDIDATES.parquet: unique full candidate_id, proposal_type, member_spots and n_spots. BASE_FEATURES.parquet:147 observable columns in identical candidate order. INITIAL_SELECTED.parquet: candidate IDs from Development-fitted initialization, not truth-based selection. GENE_OBJECT_EVIDENCE.parquet: expression evidence in the same candidate row order. Exactly the201 fields named in the model bundles enter prediction; dataset/workflow/candidate IDs are not model features.
+
+FULL weights use all12 Development sections. LOSO evaluation requires its declared outer-fold weights and double-excluded state routes; FULL scoring of training sections would not reproduce that evaluation. All154 External maps were globally hash-locked before reference evaluation. Historical cohort exposure and unknown donor independence limit confirmatory interpretation.

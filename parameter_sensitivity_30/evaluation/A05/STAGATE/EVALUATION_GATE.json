@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "A05",
+  "workflow": "STAGATE",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "27b74b8deef6d19aeeb73d985ade286a583a4e3cc0389e14e4f37d74a7f92ecf",
+  "prediction_sha256": "a6c2f1324fc0834a19fba9720e24dcea759dda6f33f57a13579940f84216f511",
+  "map_results_sha256": "4843daba01c7b81656153672801d20e91206aa745870d4aea882767459c98874",
+  "component_results_sha256": "65496b7d78572e51ef79da3a72e721417618cd99048e1882242f5ef682bc2acf",
+  "seconds": 0.3799777030944824
+}

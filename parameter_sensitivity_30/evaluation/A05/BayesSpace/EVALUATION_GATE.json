@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "A05",
+  "workflow": "BayesSpace",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "27b74b8deef6d19aeeb73d985ade286a583a4e3cc0389e14e4f37d74a7f92ecf",
+  "prediction_sha256": "55b8a83e94ce9f5a2a655ed8031e046f32fdebb3b9437e3f403a7d2215380fee",
+  "map_results_sha256": "6fc6ecca49e452e89103e7d60a0bc4e0fea33e11861b35cfbea57c6e30321709",
+  "component_results_sha256": "1d2e93714b8402bd1d5e2ef5d885c0c5ea10901b30439004e09417848b03d348",
+  "seconds": 0.4091050624847412
+}

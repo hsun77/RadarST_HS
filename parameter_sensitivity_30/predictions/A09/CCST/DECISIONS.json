@@ -1,0 +1,962 @@
+{
+  "w70_r095": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07493300597003942,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07151065303269963,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026733454935467506,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w70_r096": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07493300597003942,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07151065303269963,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026733454935467506,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w70_r097": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07493300597003942,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07151065303269963,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026733454935467506,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w70_r098": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.0746989733968141,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07150214555047744,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.02715247351242322,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w70_r099": [
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07087051335438224,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0009700353065432408
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.027151795493944524,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0009700353065432408,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 1,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07447367084103662,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w70_r100": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07447367084103662,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.06933087043660617,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.02703967585746146,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w75_r095": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07493300597003942,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07151065303269963,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026733454935467506,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w75_r096": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07493300597003942,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07151065303269963,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026733454935467506,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w75_r097": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07493300597003942,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07151065303269963,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026733454935467506,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w75_r098": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.0746989733968141,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07150214555047744,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026818900356425972,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w75_r099": [
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07087051335438224,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0009700353065432408
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026818222337947277,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0009700353065432408,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 1,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07447367084103662,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w75_r100": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07447367084103662,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.06933087043660617,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026706102701464212,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w80_r095": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07493300597003942,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07151065303269963,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026733454935467506,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w80_r096": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07493300597003942,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07151065303269963,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026733454935467506,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w80_r097": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07493300597003942,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07151065303269963,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026733454935467506,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w80_r098": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.0746989733968141,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07150214555047744,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.02715247351242322,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w80_r099": [
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07087051335438224,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0009700353065432408
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.027151795493944524,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0009700353065432408,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 1,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07447367084103662,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w80_r100": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07447367084103662,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.06933087043660617,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.02703967585746146,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w85_r095": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07493300597003942,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07151065303269963,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026733454935467506,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w85_r096": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07493300597003942,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07151065303269963,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026733454935467506,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w85_r097": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.0748133957170796,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07150810051303752,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.027055489137736023,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w85_r098": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.0746989733968141,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07150214555047744,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026818900356425972,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w85_r099": [
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07087051335438224,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0009700353065432408
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026818222337947277,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0009700353065432408,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 1,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07447367084103662,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w85_r100": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07447367084103662,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.06933087043660617,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.02703967585746146,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w90_r095": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07493300597003942,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07151065303269963,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026733454935467506,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w90_r096": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07493300597003942,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07151065303269963,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026733454935467506,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w90_r097": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07493300597003942,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07151065303269963,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026733454935467506,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w90_r098": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.0746989733968141,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07150214555047744,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026818900356425972,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w90_r099": [
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07087051335438224,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0009700353065432408
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026818222337947277,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0009700353065432408,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 1,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07447367084103662,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ],
+  "w90_r100": [
+    {
+      "round": 0,
+      "candidate_id": "b0c71ea1bc14cc87d1ee9987738e1b80e317ad0f2e4b64d02dd2eceb4bd6f31f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.07447367084103662,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0,
+      "expected_credit_after": 0.0006009615384615385
+    },
+    {
+      "round": 0,
+      "candidate_id": "b32587eaa11baf063c71abb9b53f86623f481e9cd857477a5323a8d6e64e645d",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.06963483776085021,
+      "predicted_event_delta": -0.0009700353065432408,
+      "expected_credit_before": 0.0006009615384615385,
+      "expected_credit_after": 0.0015709968450047793
+    },
+    {
+      "round": 0,
+      "candidate_id": "ab28304f1d93478a4ac8ca957d74fc22d9bf84807a63ba1a248981a3197d443f",
+      "operation_remove": false,
+      "removed_ids": [],
+      "predicted_net": 0.026706102701464212,
+      "predicted_event_delta": -0.0006009615384615385,
+      "expected_credit_before": 0.0015709968450047793,
+      "expected_credit_after": 0.0021719583834663176
+    }
+  ]
+}

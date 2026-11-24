@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "dataset": "ST_PDAC_A",
+  "workflow": "SpaGCN",
+  "configurations": 30,
+  "independent_evaluator_max_error": 0.0,
+  "formal_default_frozen_endpoint_parity": true,
+  "reference_sha256": "590172cc8625db21a7180a3bd8ec555b203ae524f12d1182cbe10fd97a1af388",
+  "prediction_sha256": "ddc8cd71de23c8db4dfb03ac7840ef2d0383e288ef25bb10407eaffcef126eb0",
+  "map_results_sha256": "2f681ad5a79cb474bf0536a1a26e427d3d789586048c474ad3c210f7472d7061",
+  "component_results_sha256": "14f2037f27c492d7198d408c0367f747ad9017b8f72a167c25c0b10eab3a8c4a",
+  "seconds": 0.11877036094665527
+}

@@ -1,5 +1,29 @@
-# Prepared input
+# Input data
 
-MAP.npz: unique string spots, N×2 xy, integer upstream base, edge pairs and expression-derived pcs; no pathological annotations. CANDIDATES.parquet: unique full candidate_id, proposal_type, member_spots and n_spots. BASE_FEATURES.parquet:147 observable columns in identical candidate order. INITIAL_SELECTED.parquet: candidate IDs from Development-fitted initialization, not truth-based selection. GENE_OBJECT_EVIDENCE.parquet: expression evidence in the same candidate row order. Exactly the201 fields named in the model bundles enter prediction; dataset/workflow/candidate IDs are not model features.
+RadarST uses aligned expression-derived features, spatial coordinates, one upstream cluster map and connected candidate regions. All input files for a map must use the same ordered spot and candidate identifiers.
 
-FULL weights use all12 Development sections. LOSO evaluation requires its declared outer-fold weights and double-excluded state routes; FULL scoring of training sections would not reproduce that evaluation. All154 External maps were globally hash-locked before reference evaluation. Historical cohort exposure and unknown donor independence limit confirmatory interpretation.
+| File | Contents |
+|---|---|
+| `MAP.npz` | Unique string spot identifiers; an N-by-2 coordinate array `xy`; integer upstream labels `base`; spatial edge pairs `edge`; expression principal-component scores `pcs` |
+| `CANDIDATES.parquet` | Unique full `candidate_id`, `proposal_type`, `member_spots` and `n_spots` for each connected candidate |
+| `BASE_FEATURES.parquet` | 147 observable candidate features in the same row order as `CANDIDATES.parquet` |
+| `INITIAL_SELECTED.parquet` | Candidate identifiers selected during initialization |
+| `GENE_OBJECT_EVIDENCE.parquet` | Molecular object evidence in the same candidate row order |
+
+`member_spots` identifies candidate members using the spot identifiers in `MAP.npz`. Members must exist in that map, and candidate identifiers must be unique. The example map is in `example_data/map/`; its molecular evidence is in `example_data/molecular/`.
+
+The model bundles specify the ordered 201-feature prediction vector. Dataset names, workflow names and candidate identifiers serve as alignment and routing metadata. Inference features are calculated from expression, coordinates, the upstream partition and the current object selection. Reference pathology is used to construct supervised training targets and to evaluate predictions separately.
+
+## Model routing
+
+The included deployment models use all 12 development sections. Reproducing development evaluation requires the corresponding section-excluded models and training-state routes in `configs/development_model_registry.json` and `configs/training_routes.json`. External maps use the development-fitted deployment models.
+
+## Label output
+
+The label CSV contains:
+
+- `spot_id`: the aligned input spot identifier;
+- `refined`: the predicted cluster label after conditional refinement;
+- `edited`: whether the spot belongs to a selected object.
+
+Selected-object and decision tables retain full candidate identities and membership. Model hashes and execution metadata accompany each run.

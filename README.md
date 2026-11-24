@@ -1,23 +1,77 @@
 # RadarST
 
-RadarST refines one upstream spatial map through guarded molecular proposals, topology-constrained initialization and conditional full-map actions. The active policy identifier is E2_EVENT_CREDIT. Two201-feature ExtraTrees heads and six deterministic rounds are used. No reference, true IoU, actual harm or oracle quantity enters inference.
+RadarST recovers compact tissue structures within spatial transcriptomic cluster maps and characterizes their local molecular features. It combines guarded molecular contrast, connected region proposals, topology-aware initialization and conditional refinement of the spatial partition.
 
-## Executable real-data example
+## Installation
 
-```powershell
-python -B run_radarst.py --input-dir example_data/map --molecular-dir example_data/molecular --output-root H:/RadarST_Review_Example --dataset EXT04_GSM6592049_M2 --workflow GraphST
+Use Python 3.10. Model files are distributed with Git LFS.
+
+```bash
+git lfs install
+git clone https://github.com/hsun77/RadarST_HS.git
+cd RadarST_HS
+git lfs pull
+python -m pip install -r requirements.txt
 ```
 
-Use a new output directory. The reported map is predictions/DATASET/WORKFLOW/E2_EVENT_CREDIT/FINAL_LABELS.csv. An auxiliary quotient map emitted by the unchanged kernel is not the reported or evaluated map. REVIEW_CODE_SMOKE_TEST.json records exact reproduction of frozen labels, candidate sets and decisions.
+## Run the example
 
-The tested CLI starts at the **prepared candidate-state interface**, not an arbitrary raw-input one-click API. MAP.npz contains ordered spots, coordinates, one upstream partition, edges and expression PCs. Candidate membership,147 base features, molecular object evidence and the Development-fitted initialization prediction complete the input. DATA_SCHEMA.md documents alignment.
+The included breast cancer example contains expression-derived features, spatial coordinates, an upstream GraphST partition and connected candidate regions.
 
-Actual preprocessing/initialization sources and weights are included in src/initialization, src/frontend_helpers and models/initialization. Registered training scripts and their SHA-bound read-only data/target/state dependencies are in training/ and configs/. Those datasets and24 Development fold weights are externally referenced; both FULL conditional weights are embedded. The registered training scripts require their declared research workspace and are not advertised as portable arbitrary-data commands.
+```bash
+python run_radarst.py \
+  --input-dir example_data/map \
+  --molecular-dir example_data/molecular \
+  --output-root ../radarst_output \
+  --dataset EXT04_GSM6592049_M2 \
+  --workflow GraphST
+```
 
-results/ contains9,996 component-workflow records and322 map summaries with all losses, exact sizes, footprint and macro metrics. The primary endpoint is section equal with14 dependent workflows. Use the actual versions in configs/environment_and_sources.json. The molecular controls in supplementary_controls/s23 describe a fixed attribution panel; they are not a final-selection randomization or independent disease validation.
+Run this command from the repository root. Choose an output directory outside the repository that does not already exist. The command prints the path to the refined label table. The same run also saves selected objects, action decisions and model and input hashes.
 
+The label table contains `spot_id`, `refined` and `edited`. Each retained object receives a distinct label; other spots retain their upstream assignments.
 
-Fixed final-map randomization, molecular controls, iteration and current-object attribution are now in validation_completion/. S23 retains the earlier fixed panel; S26–S29 describe current population/case checks. See validation_completion/README.md for complete dependencies and remaining boundaries.
+## Inputs
 
+The command accepts a prepared candidate state consisting of:
 
-The manuscript supplement contains 31 worksheets (Index and S1–S30). S30 documents exact shape correspondence for the prespecified six-case molecular-example registry; it does not count the number of figure tiles. All numerical algorithm code, model weights, inference feature order and prepared examples remain unchanged.
+- ordered spot identifiers, coordinates, spatial edges, expression principal components and one upstream partition;
+- connected candidate memberships and their molecular and geometric features;
+- molecular object evidence and the initialized object selection.
+
+File formats and row-alignment requirements are described in [DATA_SCHEMA.md](DATA_SCHEMA.md). Preprocessing and initialization code is provided in `src/initialization/` and `src/frontend_helpers/`.
+
+## Models and training
+
+The supplied utility and event models were fitted using the 12 development sections. They predict the effects of complete map actions from 201 observable features. Conditional refinement considers additions, removals and substitutions over at most six rounds.
+
+Training code is in `training/`. Feature order, supervised targets, section-exclusion routes and model provenance are recorded in `configs/` and `models/`. Development evaluation uses section-excluded models; external inference uses the models fitted on all development sections. Cohort training and analysis require the expression data, annotations, candidate states and fold models identified by these records.
+
+## Repository contents
+
+| Directory | Contents |
+|---|---|
+| `src/` | Molecular detection, initialization and conditional refinement |
+| `models/` | Fitted models and provenance |
+| `configs/` | Feature definitions, training routes and execution settings |
+| `example_data/` | Prepared real-data example |
+| `training/` | Supervised target preparation and model fitting |
+| `results/` | Map-level metrics, component-level outcomes and supplementary tables |
+| `parameter_sensitivity_30/` | Expression-weight and retention sensitivity analyses |
+| `validation_completion/` | Matched controls, iteration analyses and molecular attribution |
+| `supplementary_controls/s23/` | Size-matched connected-region controls |
+| `tests/` | Example-output reproducibility test |
+
+The benchmark records cover 168 development maps and 154 external maps. Cohort summaries average components within each map, workflows within each section, and sections with equal weight. Component-level tables include improved, unchanged and decreased outcomes.
+
+## Test the example
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+The test runs the supplied example and compares the resulting labels, selected objects and decisions with their recorded checksums. `SHA256SUMS` lists checksums for the distributed files.
+
+## License
+
+RadarST code is distributed under the [MIT License](LICENSE). Included third-party components retain their own license notices.
